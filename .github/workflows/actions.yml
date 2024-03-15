@@ -28,14 +28,14 @@ jobs:
         run: python main.py
           
       - name: commit files
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
+          git remote set-url origin https://anuja-rahul:$GITHUB_TOKEN@github.com/github-stat-automation-python
           git add -A
           git diff-index --quiet HEAD || (git commit -a -m "updated stats" --allow-empty)
+          git push
           
-      - name: push changes
-        uses: ad-m/github-push-action@v0.6.0
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: main 
+      
