@@ -37,5 +37,3 @@ jobs:
           git add -A
           git diff-index --quiet HEAD || (git commit -a -m "updated stats" --allow-empty)
           git push
-          
-      
