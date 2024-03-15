@@ -27,7 +27,7 @@ jobs:
           SECRET_TOKEN: ${{ secrets.SECRET_TOKEN }}
         run: python main.py
           
-      - name: commit files
+      - name: commit & push files
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
