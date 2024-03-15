@@ -55,6 +55,7 @@
                ".gitignore",
                "LICENSE.txt",
                "README.md",
+               "__pycache__",
                "handler.py",
                "main.py",
                "requirements.txt",
