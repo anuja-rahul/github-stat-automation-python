@@ -11,6 +11,7 @@ class APIHandler:
     __GITHUB_TOKEN = os.getenv('SECRET_TOKEN')
 
     def __init__(self):
+        self.__init_env()
         self.__today = dt.datetime.today()
         self.__token = self.__get_token()
 
@@ -24,6 +25,11 @@ class APIHandler:
 
         self.__json_content = self.__generate_jason_content()
         self.__dump_to_json()
+
+    @staticmethod
+    def __init_env():
+        if "stats" not in os.listdir():
+            os.mkdir("stats")
 
     def __get_token(self):
         return Github(self.__GITHUB_TOKEN)
