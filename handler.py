@@ -1,14 +1,17 @@
 import os
+import json
 import dotenv
+import datetime as dt
 from github import Github
 
 
 class APIHandler:
 
     dotenv.load_dotenv()
-    __GITHUB_TOKEN = os.getenv('GITHUB_TOKEN')
+    __GITHUB_TOKEN = os.getenv('SECRET_TOKEN')
 
     def __init__(self):
+        self.__today = dt.datetime.today()
         self.__token = self.__get_token()
 
         self.__repositories = self.__get_repositories()
@@ -19,7 +22,8 @@ class APIHandler:
         self.__stargazers = self.__get_stargazers()
         self.__content = self.__get_repo_content()
 
-        self.json_content = self.__generate_jason_content()
+        self.__json_content = self.__generate_jason_content()
+        self.__dump_to_json()
 
     def __get_token(self):
         return Github(self.__GITHUB_TOKEN)
@@ -96,6 +100,11 @@ class APIHandler:
                 "content": self.__content[f'{repo}']
             }
         return json_dict
+
+    def __dump_to_json(self):
+        json_file = f"stats/{self.__today.day:02d}-{self.__today.month:02d}-" f"{self.__today.year}.json"
+        with open(json_file, 'w') as file:
+            file.write(json.dumps(self.__json_content, indent=5))
 
     def __repr__(self):
         return (f"({self.__repositories}, {self.__stars}, {self.__views}, {self.__clones}, "
