@@ -1,7 +1,7 @@
 {
      "anuja-rahul/anuja-rahul": {
           "stars": 0,
-          "views": 181,
+          "views": 182,
           "clones": 52,
           "collaborators": [
                "Anuja Rahul Gunasinghe"
@@ -44,8 +44,8 @@
      },
      "anuja-rahul/github-stat-automation-python": {
           "stars": 0,
-          "views": 299,
-          "clones": 142,
+          "views": 302,
+          "clones": 145,
           "collaborators": [
                "Anuja Rahul Gunasinghe"
           ],
@@ -234,6 +234,22 @@
                ".env",
                "README.md",
                "api_handler.py",
+               "main.py",
+               "requirements.txt"
+          ]
+     },
+     "anuja-rahul/Weather-CLI-App": {
+          "stars": 0,
+          "views": 4,
+          "clones": 12,
+          "collaborators": [
+               "Anuja Rahul Gunasinghe"
+          ],
+          "stargazers": [],
+          "content": [
+               "LICENSE.txt",
+               "README.md",
+               "handler.py",
                "main.py",
                "requirements.txt"
           ]
