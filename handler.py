@@ -110,7 +110,7 @@ class APIHandler:
     def __dump_to_json(self):
         json_file = f"stats/{self.__today.day:02d}-{self.__today.month:02d}-" f"{self.__today.year}.json"
         with open(json_file, 'w') as file:
-            file.write(json.dumps(self.__json_content, indent=5))
+            file.write(json.dumps(self.__json_content, indent=3))
 
     def __repr__(self):
         return (f"({self.__repositories}, {self.__stars}, {self.__views}, {self.__clones}, "
