@@ -1,7 +1,7 @@
 {
    "anuja-rahul/anuja-rahul": {
       "stars": 0,
-      "views": 254,
+      "views": 264,
       "clones": 88,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
@@ -14,7 +14,7 @@
    },
    "anuja-rahul/anuja-rahul.github.io": {
       "stars": 0,
-      "views": 26,
+      "views": 29,
       "clones": 19,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
@@ -45,23 +45,24 @@
    },
    "anuja-rahul/css-animations": {
       "stars": 0,
-      "views": 54,
-      "clones": 40,
+      "views": 87,
+      "clones": 56,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
       "stargazers": [],
       "content": [
-         ".gitignore",
          "LICENSE",
          "README.md",
-         "parallax_css"
+         "animate_on_scroll",
+         "parallax_css",
+         "parallax_js"
       ]
    },
    "anuja-rahul/github-stat-automation-python": {
       "stars": 0,
       "views": 374,
-      "clones": 166,
+      "clones": 171,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -275,7 +276,7 @@
    },
    "anuja-rahul/web-dev-water-project": {
       "stars": 0,
-      "views": 5,
+      "views": 4,
       "clones": 3,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
