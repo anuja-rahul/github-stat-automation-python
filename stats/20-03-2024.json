@@ -1,8 +1,8 @@
 {
    "anuja-rahul/anuja-rahul": {
       "stars": 0,
-      "views": 303,
-      "clones": 93,
+      "views": 279,
+      "clones": 87,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -46,7 +46,7 @@
    "anuja-rahul/css-animations": {
       "stars": 0,
       "views": 67,
-      "clones": 59,
+      "clones": 53,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -63,7 +63,7 @@
    "anuja-rahul/github-stat-automation-python": {
       "stars": 0,
       "views": 378,
-      "clones": 187,
+      "clones": 190,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -258,8 +258,8 @@
    },
    "anuja-rahul/Weather-CLI-App": {
       "stars": 0,
-      "views": 84,
-      "clones": 64,
+      "views": 100,
+      "clones": 70,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -275,9 +275,24 @@
          "requirements.txt"
       ]
    },
+   "anuja-rahul/web-dev-cw": {
+      "stars": 0,
+      "views": 1,
+      "clones": 6,
+      "collaborators": [
+         "Anuja Rahul Gunasinghe"
+      ],
+      "stargazers": [],
+      "content": [
+         "LICENSE",
+         "README.md",
+         "index.html",
+         "res"
+      ]
+   },
    "anuja-rahul/web-dev-water-project": {
       "stars": 0,
-      "views": 2,
+      "views": 3,
       "clones": 3,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
