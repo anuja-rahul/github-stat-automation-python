@@ -1,8 +1,8 @@
 {
    "anuja-rahul/anuja-rahul": {
       "stars": 0,
-      "views": 273,
-      "clones": 87,
+      "views": 279,
+      "clones": 88,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -30,7 +30,7 @@
    },
    "anuja-rahul/booking-app-javaCW": {
       "stars": 0,
-      "views": 252,
+      "views": 249,
       "clones": 0,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
@@ -64,7 +64,7 @@
    "anuja-rahul/github-stat-automation-python": {
       "stars": 0,
       "views": 378,
-      "clones": 221,
+      "clones": 224,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -278,13 +278,14 @@
    },
    "anuja-rahul/web-dev-cw.github.io": {
       "stars": 0,
-      "views": 127,
-      "clones": 42,
+      "views": 166,
+      "clones": 50,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
       "stargazers": [],
       "content": [
+         ".vscode",
          "LICENSE",
          "README.md",
          "index.html",
