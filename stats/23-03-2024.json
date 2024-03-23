@@ -1,8 +1,8 @@
 {
    "anuja-rahul/anuja-rahul": {
       "stars": 0,
-      "views": 279,
-      "clones": 88,
+      "views": 286,
+      "clones": 89,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -30,7 +30,7 @@
    },
    "anuja-rahul/booking-app-javaCW": {
       "stars": 0,
-      "views": 242,
+      "views": 215,
       "clones": 0,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
@@ -41,7 +41,7 @@
          "Documentation",
          "README.md",
          "src",
-         "w20530884.booking.app.iml"
+         "w20530884_booking_app.iml"
       ]
    },
    "anuja-rahul/css-animations": {
@@ -63,8 +63,8 @@
    },
    "anuja-rahul/github-stat-automation-python": {
       "stars": 0,
-      "views": 378,
-      "clones": 235,
+      "views": 385,
+      "clones": 238,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -278,8 +278,8 @@
    },
    "anuja-rahul/web-dev-cw.github.io": {
       "stars": 0,
-      "views": 167,
-      "clones": 53,
+      "views": 187,
+      "clones": 67,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
