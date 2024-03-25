@@ -3,7 +3,7 @@ import datetime
 
 
 class NukeFiles:
-    def __init__(self, days: int = 30, path: str = "stats"):
+    def __init__(self, days: int = 30, path: str = "stats/"):
         self.__days = days
         self.__path = path
         self.__time_now = datetime.datetime.now()
