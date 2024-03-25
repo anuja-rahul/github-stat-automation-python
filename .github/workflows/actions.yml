@@ -4,6 +4,9 @@ on:
   schedule:
     - cron: '0 */6 * * *' # runs every 6 hours
 
+  # allows to manually run the job at any time
+  workflow_dispatch:
+
 jobs:
   build:
     runs-on: ubuntu-latest
