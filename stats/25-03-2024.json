@@ -1,8 +1,8 @@
 {
    "anuja-rahul/anuja-rahul": {
       "stars": 0,
-      "views": 278,
-      "clones": 76,
+      "views": 284,
+      "clones": 79,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -30,7 +30,7 @@
    },
    "anuja-rahul/booking-app-javaCW": {
       "stars": 0,
-      "views": 263,
+      "views": 275,
       "clones": 20,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
@@ -63,8 +63,8 @@
    },
    "anuja-rahul/github-stat-automation-python": {
       "stars": 0,
-      "views": 385,
-      "clones": 258,
+      "views": 397,
+      "clones": 266,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -74,9 +74,9 @@
          ".gitignore",
          "LICENSE.txt",
          "README.md",
-         "__pycache__",
          "handler.py",
          "main.py",
+         "nuke.py",
          "requirements.txt",
          "stats"
       ]
@@ -133,7 +133,7 @@
    },
    "anuja-rahul/progression_tracker_OOP_V2": {
       "stars": 0,
-      "views": 4,
+      "views": 3,
       "clones": 1,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
@@ -273,6 +273,7 @@
          "handler.py",
          "logs",
          "main.py",
+         "nuke.py",
          "requirements.txt"
       ]
    },
