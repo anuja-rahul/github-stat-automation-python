@@ -15,4 +15,5 @@ class NukeFiles:
                 if os.path.isfile(file_path):
                     file_origin_time = datetime.datetime.fromtimestamp(os.path.getmtime(file_path))
                     if self.__time_now - file_origin_time > datetime.timedelta(days=self.__days):
+                        print(file_path)
                         os.remove(file_path)
