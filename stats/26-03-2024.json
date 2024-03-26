@@ -1,8 +1,8 @@
 {
    "anuja-rahul/anuja-rahul": {
       "stars": 1,
-      "views": 303,
-      "clones": 85,
+      "views": 308,
+      "clones": 91,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -33,7 +33,7 @@
    },
    "anuja-rahul/booking-app-javaCW": {
       "stars": 1,
-      "views": 230,
+      "views": 233,
       "clones": 21,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
@@ -70,8 +70,8 @@
    },
    "anuja-rahul/github-stat-automation-python": {
       "stars": 1,
-      "views": 425,
-      "clones": 293,
+      "views": 437,
+      "clones": 299,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -113,14 +113,15 @@
    },
    "anuja-rahul/markdown-everything": {
       "stars": 0,
-      "views": 0,
-      "clones": 0,
+      "views": 13,
+      "clones": 23,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
       "stargazers": [],
       "content": [
          ".gitattributes",
+         "LICENSE.txt",
          "README.md"
       ]
    },
@@ -296,7 +297,7 @@
    },
    "anuja-rahul/Weather-CLI-App": {
       "stars": 1,
-      "views": 168,
+      "views": 171,
       "clones": 106,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
