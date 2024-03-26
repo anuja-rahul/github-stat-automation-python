@@ -10,6 +10,7 @@
          null
       ],
       "content": [
+         ".gitattributes",
          ".github",
          "README.md"
       ]
@@ -70,7 +71,7 @@
    "anuja-rahul/github-stat-automation-python": {
       "stars": 1,
       "views": 425,
-      "clones": 290,
+      "clones": 293,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -78,6 +79,7 @@
          null
       ],
       "content": [
+         ".gitattributes",
          ".github",
          ".gitignore",
          "LICENSE.txt",
@@ -107,6 +109,19 @@
          "mvnw.cmd",
          "pom.xml",
          "src"
+      ]
+   },
+   "anuja-rahul/markdown-everything": {
+      "stars": 0,
+      "views": 0,
+      "clones": 0,
+      "collaborators": [
+         "Anuja Rahul Gunasinghe"
+      ],
+      "stargazers": [],
+      "content": [
+         ".gitattributes",
+         "README.md"
       ]
    },
    "anuja-rahul/portfolio": {
@@ -303,8 +318,8 @@
    },
    "anuja-rahul/web-dev-cw.github.io": {
       "stars": 1,
-      "views": 215,
-      "clones": 96,
+      "views": 218,
+      "clones": 97,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
