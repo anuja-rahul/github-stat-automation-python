@@ -44,6 +44,7 @@
       "content": [
          ".gitignore",
          "Documentation",
+         "LICENSE.txt",
          "README.md",
          "src",
          "w20530884_booking_app.iml"
@@ -71,7 +72,7 @@
    "anuja-rahul/github-stat-automation-python": {
       "stars": 1,
       "views": 448,
-      "clones": 310,
+      "clones": 313,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -113,7 +114,7 @@
    },
    "anuja-rahul/markdown-everything": {
       "stars": 0,
-      "views": 26,
+      "views": 27,
       "clones": 41,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
