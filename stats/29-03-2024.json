@@ -33,7 +33,7 @@
    },
    "anuja-rahul/booking-app-javaCW": {
       "stars": 1,
-      "views": 197,
+      "views": 194,
       "clones": 28,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
@@ -72,7 +72,7 @@
    "anuja-rahul/github-stat-automation-python": {
       "stars": 1,
       "views": 459,
-      "clones": 334,
+      "clones": 336,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -94,7 +94,7 @@
    },
    "anuja-rahul/login-ui": {
       "stars": 1,
-      "views": 1,
+      "views": 0,
       "clones": 2,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
@@ -124,6 +124,21 @@
          ".gitattributes",
          "LICENSE.txt",
          "README.md"
+      ]
+   },
+   "anuja-rahul/password-generator-using-Go": {
+      "stars": 0,
+      "views": 0,
+      "clones": 0,
+      "collaborators": [
+         "Anuja Rahul Gunasinghe"
+      ],
+      "stargazers": [],
+      "content": [
+         "LICENSE.txt",
+         "README.md",
+         "go.mod",
+         "main.go"
       ]
    },
    "anuja-rahul/portfolio": {
@@ -282,7 +297,7 @@
    },
    "anuja-rahul/spotify-automation-v2": {
       "stars": 1,
-      "views": 5,
+      "views": 6,
       "clones": 7,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
@@ -319,7 +334,7 @@
    "anuja-rahul/Weather-CLI-App": {
       "stars": 1,
       "views": 180,
-      "clones": 113,
+      "clones": 116,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
