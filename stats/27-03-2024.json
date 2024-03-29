@@ -1,13 +1,16 @@
 {
    "anuja-rahul/anuja-rahul": {
-      "stars": 0,
+      "stars": 1,
       "views": 278,
-      "clones": 76,
+      "clones": 96,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
-      "stargazers": [],
+      "stargazers": [
+         null
+      ],
       "content": [
+         ".gitattributes",
          ".github",
          "README.md"
       ]
@@ -29,29 +32,34 @@
       ]
    },
    "anuja-rahul/booking-app-javaCW": {
-      "stars": 0,
-      "views": 274,
-      "clones": 20,
+      "stars": 1,
+      "views": 207,
+      "clones": 27,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
-      "stargazers": [],
+      "stargazers": [
+         null
+      ],
       "content": [
          ".gitignore",
          "Documentation",
+         "LICENSE.txt",
          "README.md",
          "src",
          "w20530884_booking_app.iml"
       ]
    },
    "anuja-rahul/css-animations": {
-      "stars": 0,
+      "stars": 1,
       "views": 67,
-      "clones": 38,
+      "clones": 37,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
-      "stargazers": [],
+      "stargazers": [
+         null
+      ],
       "content": [
          "LICENSE",
          "README.md",
@@ -62,33 +70,38 @@
       ]
    },
    "anuja-rahul/github-stat-automation-python": {
-      "stars": 0,
-      "views": 385,
-      "clones": 252,
+      "stars": 1,
+      "views": 459,
+      "clones": 316,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
-      "stargazers": [],
+      "stargazers": [
+         null
+      ],
       "content": [
+         ".gitattributes",
          ".github",
          ".gitignore",
          "LICENSE.txt",
          "README.md",
-         "__pycache__",
          "handler.py",
          "main.py",
+         "nuke.py",
          "requirements.txt",
          "stats"
       ]
    },
    "anuja-rahul/login-ui": {
-      "stars": 0,
+      "stars": 1,
       "views": 1,
-      "clones": 1,
+      "clones": 2,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
-      "stargazers": [],
+      "stargazers": [
+         null
+      ],
       "content": [
          ".gitignore",
          ".idea",
@@ -97,6 +110,20 @@
          "mvnw.cmd",
          "pom.xml",
          "src"
+      ]
+   },
+   "anuja-rahul/markdown-everything": {
+      "stars": 0,
+      "views": 34,
+      "clones": 41,
+      "collaborators": [
+         "Anuja Rahul Gunasinghe"
+      ],
+      "stargazers": [],
+      "content": [
+         ".gitattributes",
+         "LICENSE.txt",
+         "README.md"
       ]
    },
    "anuja-rahul/portfolio": {
@@ -132,13 +159,15 @@
       ]
    },
    "anuja-rahul/progression_tracker_OOP_V2": {
-      "stars": 0,
-      "views": 4,
-      "clones": 1,
+      "stars": 1,
+      "views": 1,
+      "clones": 2,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
-      "stargazers": [],
+      "stargazers": [
+         null
+      ],
       "content": [
          "README.md",
          "cryptohandler.py",
@@ -153,13 +182,15 @@
       ]
    },
    "anuja-rahul/python-datavault": {
-      "stars": 0,
+      "stars": 1,
       "views": 2,
       "clones": 1,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
-      "stargazers": [],
+      "stargazers": [
+         null
+      ],
       "content": [
          ".env",
          "datavault.py",
@@ -171,13 +202,15 @@
       ]
    },
    "anuja-rahul/python_datalogger": {
-      "stars": 0,
+      "stars": 1,
       "views": 0,
       "clones": 2,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
-      "stargazers": [],
+      "stargazers": [
+         null
+      ],
       "content": [
          "LICENSE.txt",
          "MANIFEST.in",
@@ -190,13 +223,15 @@
       ]
    },
    "anuja-rahul/seat-booking-app": {
-      "stars": 0,
-      "views": 8,
+      "stars": 1,
+      "views": 5,
       "clones": 8,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
-      "stargazers": [],
+      "stargazers": [
+         null
+      ],
       "content": [
          "LICENSE.txt",
          "README.md",
@@ -207,13 +242,15 @@
       ]
    },
    "anuja-rahul/socket-file-transfer": {
-      "stars": 0,
+      "stars": 1,
       "views": 4,
       "clones": 1,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
-      "stargazers": [],
+      "stargazers": [
+         null
+      ],
       "content": [
          ".gitignore",
          "LICENSE.txt",
@@ -242,13 +279,15 @@
       ]
    },
    "anuja-rahul/spotify-automation-v2": {
-      "stars": 0,
+      "stars": 1,
       "views": 0,
       "clones": 1,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
-      "stargazers": [],
+      "stargazers": [
+         null
+      ],
       "content": [
          ".env",
          "README.md",
@@ -257,14 +296,33 @@
          "requirements.txt"
       ]
    },
-   "anuja-rahul/Weather-CLI-App": {
+   "anuja-rahul/stat-retrieval-using-riotAPI": {
       "stars": 0,
-      "views": 108,
-      "clones": 84,
+      "views": 0,
+      "clones": 29,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
       "stargazers": [],
+      "content": [
+         ".gitattributes",
+         "LICENSE.txt",
+         "README.md",
+         "api_handler.py",
+         "main.py",
+         "requirements.txt"
+      ]
+   },
+   "anuja-rahul/Weather-CLI-App": {
+      "stars": 1,
+      "views": 180,
+      "clones": 109,
+      "collaborators": [
+         "Anuja Rahul Gunasinghe"
+      ],
+      "stargazers": [
+         null
+      ],
       "content": [
          ".github",
          ".gitignore",
@@ -273,17 +331,20 @@
          "handler.py",
          "logs",
          "main.py",
+         "nuke.py",
          "requirements.txt"
       ]
    },
    "anuja-rahul/web-dev-cw.github.io": {
-      "stars": 0,
-      "views": 187,
-      "clones": 84,
+      "stars": 1,
+      "views": 221,
+      "clones": 99,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
-      "stargazers": [],
+      "stargazers": [
+         null
+      ],
       "content": [
          ".vscode",
          "LICENSE",
@@ -293,13 +354,15 @@
       ]
    },
    "anuja-rahul/web-dev-water-project": {
-      "stars": 0,
+      "stars": 1,
       "views": 4,
       "clones": 0,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
-      "stargazers": [],
+      "stargazers": [
+         null
+      ],
       "content": [
          ".gitignore",
          "LICENSE",

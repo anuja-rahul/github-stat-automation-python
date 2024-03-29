@@ -1,21 +1,24 @@
 {
    "anuja-rahul/anuja-rahul": {
-      "stars": 0,
-      "views": 286,
-      "clones": 89,
+      "stars": 1,
+      "views": 264,
+      "clones": 97,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
-      "stargazers": [],
+      "stargazers": [
+         "Keshawa_Udana"
+      ],
       "content": [
+         ".gitattributes",
          ".github",
          "README.md"
       ]
    },
    "anuja-rahul/anuja-rahul.github.io": {
       "stars": 0,
-      "views": 33,
-      "clones": 19,
+      "views": 59,
+      "clones": 24,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -29,29 +32,34 @@
       ]
    },
    "anuja-rahul/booking-app-javaCW": {
-      "stars": 0,
-      "views": 215,
-      "clones": 0,
+      "stars": 1,
+      "views": 194,
+      "clones": 28,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
-      "stargazers": [],
+      "stargazers": [
+         "Keshawa_Udana"
+      ],
       "content": [
          ".gitignore",
          "Documentation",
+         "LICENSE.txt",
          "README.md",
          "src",
          "w20530884_booking_app.iml"
       ]
    },
    "anuja-rahul/css-animations": {
-      "stars": 0,
-      "views": 73,
+      "stars": 1,
+      "views": 67,
       "clones": 38,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
-      "stargazers": [],
+      "stargazers": [
+         "Keshawa_Udana"
+      ],
       "content": [
          "LICENSE",
          "README.md",
@@ -62,33 +70,38 @@
       ]
    },
    "anuja-rahul/github-stat-automation-python": {
-      "stars": 0,
-      "views": 385,
-      "clones": 238,
+      "stars": 1,
+      "views": 459,
+      "clones": 336,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
-      "stargazers": [],
+      "stargazers": [
+         "Keshawa_Udana"
+      ],
       "content": [
+         ".gitattributes",
          ".github",
          ".gitignore",
          "LICENSE.txt",
          "README.md",
-         "__pycache__",
          "handler.py",
          "main.py",
+         "nuke.py",
          "requirements.txt",
          "stats"
       ]
    },
    "anuja-rahul/login-ui": {
-      "stars": 0,
-      "views": 1,
-      "clones": 1,
+      "stars": 1,
+      "views": 0,
+      "clones": 2,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
-      "stargazers": [],
+      "stargazers": [
+         "Keshawa_Udana"
+      ],
       "content": [
          ".gitignore",
          ".idea",
@@ -97,6 +110,35 @@
          "mvnw.cmd",
          "pom.xml",
          "src"
+      ]
+   },
+   "anuja-rahul/markdown-everything": {
+      "stars": 0,
+      "views": 36,
+      "clones": 41,
+      "collaborators": [
+         "Anuja Rahul Gunasinghe"
+      ],
+      "stargazers": [],
+      "content": [
+         ".gitattributes",
+         "LICENSE.txt",
+         "README.md"
+      ]
+   },
+   "anuja-rahul/password-generator-using-Go": {
+      "stars": 0,
+      "views": 0,
+      "clones": 0,
+      "collaborators": [
+         "Anuja Rahul Gunasinghe"
+      ],
+      "stargazers": [],
+      "content": [
+         "LICENSE.txt",
+         "README.md",
+         "go.mod",
+         "main.go"
       ]
    },
    "anuja-rahul/portfolio": {
@@ -132,14 +174,17 @@
       ]
    },
    "anuja-rahul/progression_tracker_OOP_V2": {
-      "stars": 0,
+      "stars": 1,
       "views": 6,
-      "clones": 1,
+      "clones": 5,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
-      "stargazers": [],
+      "stargazers": [
+         "Keshawa_Udana"
+      ],
       "content": [
+         "LICENSE.txt",
          "README.md",
          "cryptohandler.py",
          "decorators.py",
@@ -153,15 +198,18 @@
       ]
    },
    "anuja-rahul/python-datavault": {
-      "stars": 0,
-      "views": 2,
-      "clones": 1,
+      "stars": 1,
+      "views": 9,
+      "clones": 6,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
-      "stargazers": [],
+      "stargazers": [
+         "Keshawa_Udana"
+      ],
       "content": [
          ".env",
+         "LICENSE.txt",
          "datavault.py",
          "main_handler.py",
          "metadata_handler.py",
@@ -171,13 +219,15 @@
       ]
    },
    "anuja-rahul/python_datalogger": {
-      "stars": 0,
+      "stars": 1,
       "views": 0,
       "clones": 2,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
-      "stargazers": [],
+      "stargazers": [
+         "Keshawa_Udana"
+      ],
       "content": [
          "LICENSE.txt",
          "MANIFEST.in",
@@ -190,13 +240,15 @@
       ]
    },
    "anuja-rahul/seat-booking-app": {
-      "stars": 0,
-      "views": 8,
-      "clones": 8,
+      "stars": 1,
+      "views": 1,
+      "clones": 6,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
-      "stargazers": [],
+      "stargazers": [
+         "Keshawa_Udana"
+      ],
       "content": [
          "LICENSE.txt",
          "README.md",
@@ -207,13 +259,15 @@
       ]
    },
    "anuja-rahul/socket-file-transfer": {
-      "stars": 0,
+      "stars": 1,
       "views": 4,
-      "clones": 1,
+      "clones": 2,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
-      "stargazers": [],
+      "stargazers": [
+         "Keshawa_Udana"
+      ],
       "content": [
          ".gitignore",
          "LICENSE.txt",
@@ -242,15 +296,35 @@
       ]
    },
    "anuja-rahul/spotify-automation-v2": {
+      "stars": 1,
+      "views": 6,
+      "clones": 7,
+      "collaborators": [
+         "Anuja Rahul Gunasinghe"
+      ],
+      "stargazers": [
+         "Keshawa_Udana"
+      ],
+      "content": [
+         ".env",
+         "LICENSE.txt",
+         "README.md",
+         "api_handler.py",
+         "main.py",
+         "requirements.txt"
+      ]
+   },
+   "anuja-rahul/stat-retrieval-using-riotAPI": {
       "stars": 0,
-      "views": 0,
-      "clones": 1,
+      "views": 36,
+      "clones": 57,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
       "stargazers": [],
       "content": [
-         ".env",
+         ".gitattributes",
+         "LICENSE.txt",
          "README.md",
          "api_handler.py",
          "main.py",
@@ -258,13 +332,15 @@
       ]
    },
    "anuja-rahul/Weather-CLI-App": {
-      "stars": 0,
-      "views": 108,
-      "clones": 81,
+      "stars": 1,
+      "views": 180,
+      "clones": 116,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
-      "stargazers": [],
+      "stargazers": [
+         "Keshawa_Udana"
+      ],
       "content": [
          ".github",
          ".gitignore",
@@ -273,17 +349,20 @@
          "handler.py",
          "logs",
          "main.py",
+         "nuke.py",
          "requirements.txt"
       ]
    },
    "anuja-rahul/web-dev-cw.github.io": {
-      "stars": 0,
-      "views": 187,
-      "clones": 67,
+      "stars": 1,
+      "views": 222,
+      "clones": 99,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
-      "stargazers": [],
+      "stargazers": [
+         "Keshawa_Udana"
+      ],
       "content": [
          ".vscode",
          "LICENSE",
@@ -293,13 +372,15 @@
       ]
    },
    "anuja-rahul/web-dev-water-project": {
-      "stars": 0,
-      "views": 6,
-      "clones": 0,
+      "stars": 1,
+      "views": 4,
+      "clones": 1,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
-      "stargazers": [],
+      "stargazers": [
+         "Keshawa_Udana"
+      ],
       "content": [
          ".gitignore",
          "LICENSE",
