@@ -2,7 +2,7 @@ name: run main.py
 
 on:
   schedule:
-    - cron: '0 */12 * * *' # runs every 12 hours
+    - cron: '0 */12 * * *' # runs every 12 hour(s)
 
   # allows to manually run the job at any time
   workflow_dispatch:
