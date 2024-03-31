@@ -1,8 +1,8 @@
 {
    "anuja-rahul/anuja-rahul": {
       "stars": 1,
-      "views": 228,
-      "clones": 91,
+      "views": 226,
+      "clones": 89,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -71,8 +71,8 @@
    },
    "anuja-rahul/github-stat-automation-python": {
       "stars": 1,
-      "views": 177,
-      "clones": 223,
+      "views": 141,
+      "clones": 214,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -364,7 +364,7 @@
    },
    "anuja-rahul/stat-retrieval-using-riotAPI": {
       "stars": 0,
-      "views": 76,
+      "views": 78,
       "clones": 57,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
@@ -381,8 +381,8 @@
    },
    "anuja-rahul/Weather-CLI-App": {
       "stars": 1,
-      "views": 181,
-      "clones": 121,
+      "views": 176,
+      "clones": 98,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -403,8 +403,8 @@
    },
    "anuja-rahul/web-dev-cw.github.io": {
       "stars": 1,
-      "views": 225,
-      "clones": 107,
+      "views": 255,
+      "clones": 113,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -415,6 +415,7 @@
          ".vscode",
          "LICENSE",
          "README.md",
+         "feedback.html",
          "index.html",
          "res"
       ]
