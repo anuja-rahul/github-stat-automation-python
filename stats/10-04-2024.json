@@ -1,8 +1,8 @@
 {
    "anuja-rahul/anuja-rahul": {
       "stars": 1,
-      "views": 25,
-      "clones": 29,
+      "views": 21,
+      "clones": 20,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -17,8 +17,8 @@
    },
    "anuja-rahul/booking-app-javaCW": {
       "stars": 1,
-      "views": 56,
-      "clones": 10,
+      "views": 52,
+      "clones": 11,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -53,9 +53,30 @@
          "parallax_js"
       ]
    },
+   "anuja-rahul/demo-app-react": {
+      "stars": 0,
+      "views": 9,
+      "clones": 15,
+      "collaborators": [
+         "Anuja Rahul Gunasinghe"
+      ],
+      "stargazers": [],
+      "content": [
+         ".eslintrc.cjs",
+         ".gitignore",
+         "LICENSE.txt",
+         "README.md",
+         "index.html",
+         "package-lock.json",
+         "package.json",
+         "public",
+         "src",
+         "vite.config.js"
+      ]
+   },
    "anuja-rahul/demo-portfolio.github.io": {
       "stars": 0,
-      "views": 110,
+      "views": 112,
       "clones": 48,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
@@ -71,8 +92,8 @@
    },
    "anuja-rahul/github-stat-automation-python": {
       "stars": 1,
-      "views": 56,
-      "clones": 126,
+      "views": 45,
+      "clones": 121,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -114,8 +135,8 @@
    },
    "anuja-rahul/markdown-everything": {
       "stars": 0,
-      "views": 26,
-      "clones": 18,
+      "views": 15,
+      "clones": 0,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -381,7 +402,7 @@
    },
    "anuja-rahul/Weather-CLI-App": {
       "stars": 1,
-      "views": 60,
+      "views": 75,
       "clones": 43,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
@@ -403,7 +424,7 @@
    },
    "anuja-rahul/web-dev-cw.github.io": {
       "stars": 1,
-      "views": 163,
+      "views": 169,
       "clones": 60,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
