@@ -2,7 +2,7 @@
    "anuja-rahul/anuja-rahul": {
       "stars": 1,
       "views": 20,
-      "clones": 20,
+      "clones": 15,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -15,10 +15,32 @@
          "README.md"
       ]
    },
+   "anuja-rahul/apple-website": {
+      "stars": 0,
+      "views": 47,
+      "clones": 0,
+      "collaborators": [
+         "Anuja Rahul Gunasinghe"
+      ],
+      "stargazers": [],
+      "content": [
+         ".eslintrc.json",
+         ".gitignore",
+         "README.md",
+         "index.html",
+         "package-lock.json",
+         "package.json",
+         "postcss.config.js",
+         "public",
+         "src",
+         "tailwind.config.js",
+         "vite.config.js"
+      ]
+   },
    "anuja-rahul/booking-app-javaCW": {
       "stars": 1,
-      "views": 49,
-      "clones": 7,
+      "views": 48,
+      "clones": 6,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -37,7 +59,7 @@
    "anuja-rahul/css-animations": {
       "stars": 1,
       "views": 10,
-      "clones": 1,
+      "clones": 0,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -55,7 +77,7 @@
    },
    "anuja-rahul/demo-app-react": {
       "stars": 0,
-      "views": 13,
+      "views": 15,
       "clones": 33,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
@@ -77,7 +99,7 @@
    "anuja-rahul/demo-portfolio.github.io": {
       "stars": 0,
       "views": 90,
-      "clones": 49,
+      "clones": 45,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -135,7 +157,7 @@
    },
    "anuja-rahul/markdown-everything": {
       "stars": 0,
-      "views": 4,
+      "views": 6,
       "clones": 2,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
@@ -244,8 +266,8 @@
    },
    "anuja-rahul/progression_tracker_OOP_V2": {
       "stars": 1,
-      "views": 5,
-      "clones": 8,
+      "views": 0,
+      "clones": 5,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -268,8 +290,8 @@
    },
    "anuja-rahul/python-datavault": {
       "stars": 1,
-      "views": 7,
-      "clones": 9,
+      "views": 0,
+      "clones": 4,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -290,7 +312,7 @@
    "anuja-rahul/python_datalogger": {
       "stars": 1,
       "views": 0,
-      "clones": 3,
+      "clones": 2,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -310,7 +332,7 @@
    },
    "anuja-rahul/seat-booking-app": {
       "stars": 1,
-      "views": 0,
+      "views": 1,
       "clones": 4,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
@@ -330,7 +352,7 @@
    "anuja-rahul/socket-file-transfer": {
       "stars": 1,
       "views": 0,
-      "clones": 3,
+      "clones": 2,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -366,8 +388,8 @@
    },
    "anuja-rahul/spotify-automation-v2": {
       "stars": 1,
-      "views": 9,
-      "clones": 10,
+      "views": 4,
+      "clones": 4,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -385,8 +407,8 @@
    },
    "anuja-rahul/stat-retrieval-using-riotAPI": {
       "stars": 0,
-      "views": 70,
-      "clones": 30,
+      "views": 48,
+      "clones": 5,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -403,7 +425,7 @@
    "anuja-rahul/Weather-CLI-App": {
       "stars": 1,
       "views": 100,
-      "clones": 46,
+      "clones": 45,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -424,7 +446,7 @@
    },
    "anuja-rahul/web-dev-cw.github.io": {
       "stars": 1,
-      "views": 166,
+      "views": 165,
       "clones": 60,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
@@ -446,7 +468,7 @@
    "anuja-rahul/web-dev-water-project": {
       "stars": 1,
       "views": 0,
-      "clones": 1,
+      "clones": 0,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
