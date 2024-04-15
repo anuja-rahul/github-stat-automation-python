@@ -1,2 +1,2 @@
-*.json linguist-detectable=true
-*.json text eol=lf
+# *.json linguist-detectable=true
+# *.json text eol=lf
