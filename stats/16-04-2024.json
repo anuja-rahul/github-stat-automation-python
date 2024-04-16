@@ -1,8 +1,8 @@
 {
    "anuja-rahul/anuja-rahul": {
       "stars": 1,
-      "views": 13,
-      "clones": 15,
+      "views": 9,
+      "clones": 18,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -17,7 +17,7 @@
    },
    "anuja-rahul/apple-website": {
       "stars": 0,
-      "views": 223,
+      "views": 227,
       "clones": 52,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
@@ -114,8 +114,8 @@
    },
    "anuja-rahul/github-stat-automation-python": {
       "stars": 1,
-      "views": 17,
-      "clones": 98,
+      "views": 18,
+      "clones": 104,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -133,6 +133,33 @@
          "nuke.py",
          "requirements.txt",
          "stats"
+      ]
+   },
+   "anuja-rahul/glisten-ai-remade": {
+      "stars": 0,
+      "views": 4,
+      "clones": 13,
+      "collaborators": [
+         "Anuja Rahul Gunasinghe"
+      ],
+      "stargazers": [],
+      "content": [
+         ".eslintrc.json",
+         ".gitignore",
+         ".prettierignore",
+         ".prettierrc",
+         "LICENSE",
+         "README.md",
+         "customtypes",
+         "next.config.mjs",
+         "package-lock.json",
+         "package.json",
+         "postcss.config.js",
+         "prismicio-types.d.ts",
+         "slicemachine.config.json",
+         "src",
+         "tailwind.config.js",
+         "tsconfig.json"
       ]
    },
    "anuja-rahul/login-ui": {
@@ -446,8 +473,8 @@
    },
    "anuja-rahul/web-dev-cw.github.io": {
       "stars": 1,
-      "views": 128,
-      "clones": 30,
+      "views": 78,
+      "clones": 18,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
