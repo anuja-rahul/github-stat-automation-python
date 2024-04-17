@@ -1,13 +1,14 @@
 {
    "anuja-rahul/anuja-rahul": {
-      "stars": 1,
-      "views": 9,
-      "clones": 18,
+      "stars": 2,
+      "views": 12,
+      "clones": 28,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
       "stargazers": [
-         "Keshawa_Udana"
+         "Keshawa_Udana",
+         "Monali Suriarachchi"
       ],
       "content": [
          ".gitattributes",
@@ -16,13 +17,15 @@
       ]
    },
    "anuja-rahul/apple-website": {
-      "stars": 0,
-      "views": 228,
+      "stars": 1,
+      "views": 229,
       "clones": 52,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
-      "stargazers": [],
+      "stargazers": [
+         "Monali Suriarachchi"
+      ],
       "content": [
          ".eslintrc.json",
          ".gitignore",
@@ -38,14 +41,15 @@
       ]
    },
    "anuja-rahul/booking-app-javaCW": {
-      "stars": 1,
+      "stars": 2,
       "views": 33,
       "clones": 6,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
       "stargazers": [
-         "Keshawa_Udana"
+         "Keshawa_Udana",
+         "Monali Suriarachchi"
       ],
       "content": [
          ".gitignore",
@@ -57,14 +61,15 @@
       ]
    },
    "anuja-rahul/css-animations": {
-      "stars": 1,
-      "views": 10,
+      "stars": 2,
+      "views": 14,
       "clones": 0,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
       "stargazers": [
-         "Keshawa_Udana"
+         "Keshawa_Udana",
+         "Monali Suriarachchi"
       ],
       "content": [
          "LICENSE",
@@ -76,13 +81,15 @@
       ]
    },
    "anuja-rahul/demo-app-react": {
-      "stars": 0,
+      "stars": 1,
       "views": 15,
       "clones": 35,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
-      "stargazers": [],
+      "stargazers": [
+         "Monali Suriarachchi"
+      ],
       "content": [
          ".eslintrc.cjs",
          ".gitignore",
@@ -97,13 +104,15 @@
       ]
    },
    "anuja-rahul/demo-portfolio.github.io": {
-      "stars": 0,
+      "stars": 1,
       "views": 92,
       "clones": 47,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
-      "stargazers": [],
+      "stargazers": [
+         "Monali Suriarachchi"
+      ],
       "content": [
          "LICENSE",
          "README.md",
@@ -113,14 +122,15 @@
       ]
    },
    "anuja-rahul/github-stat-automation-python": {
-      "stars": 1,
+      "stars": 2,
       "views": 18,
       "clones": 105,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
       "stargazers": [
-         "Keshawa_Udana"
+         "Keshawa_Udana",
+         "Monali Suriarachchi"
       ],
       "content": [
          ".gitattributes",
@@ -136,13 +146,15 @@
       ]
    },
    "anuja-rahul/glisten-ai-remade": {
-      "stars": 0,
-      "views": 8,
-      "clones": 13,
+      "stars": 1,
+      "views": 28,
+      "clones": 42,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
-      "stargazers": [],
+      "stargazers": [
+         "Monali Suriarachchi"
+      ],
       "content": [
          ".eslintrc.json",
          ".gitignore",
@@ -163,14 +175,15 @@
       ]
    },
    "anuja-rahul/login-ui": {
-      "stars": 1,
+      "stars": 2,
       "views": 0,
       "clones": 0,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
       "stargazers": [
-         "Keshawa_Udana"
+         "Keshawa_Udana",
+         "Monali Suriarachchi"
       ],
       "content": [
          ".gitignore",
@@ -183,13 +196,15 @@
       ]
    },
    "anuja-rahul/markdown-everything": {
-      "stars": 0,
+      "stars": 1,
       "views": 3,
       "clones": 2,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
-      "stargazers": [],
+      "stargazers": [
+         "Monali Suriarachchi"
+      ],
       "content": [
          ".gitattributes",
          "LICENSE.txt",
@@ -197,13 +212,15 @@
       ]
    },
    "anuja-rahul/password-generator-using-Cpp": {
-      "stars": 0,
+      "stars": 1,
       "views": 0,
       "clones": 2,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
-      "stargazers": [],
+      "stargazers": [
+         "Monali Suriarachchi"
+      ],
       "content": [
          "CMakeLists.txt",
          "LICENSE.txt",
@@ -213,13 +230,15 @@
       ]
    },
    "anuja-rahul/password-generator-using-Go": {
-      "stars": 0,
+      "stars": 1,
       "views": 0,
       "clones": 2,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
-      "stargazers": [],
+      "stargazers": [
+         "Monali Suriarachchi"
+      ],
       "content": [
          "LICENSE.txt",
          "README.md",
@@ -229,13 +248,15 @@
       ]
    },
    "anuja-rahul/password-generator-using-Java": {
-      "stars": 0,
-      "views": 0,
+      "stars": 1,
+      "views": 9,
       "clones": 4,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
-      "stargazers": [],
+      "stargazers": [
+         "Monali Suriarachchi"
+      ],
       "content": [
          ".gitignore",
          "LICENSE.txt",
@@ -245,13 +266,15 @@
       ]
    },
    "anuja-rahul/password-generator-using-Python": {
-      "stars": 0,
+      "stars": 1,
       "views": 0,
       "clones": 2,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
-      "stargazers": [],
+      "stargazers": [
+         "Monali Suriarachchi"
+      ],
       "content": [
          "LICENSE.txt",
          "README.md",
@@ -292,14 +315,15 @@
       ]
    },
    "anuja-rahul/progression_tracker_OOP_V2": {
-      "stars": 1,
-      "views": 0,
+      "stars": 2,
+      "views": 4,
       "clones": 5,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
       "stargazers": [
-         "Keshawa_Udana"
+         "Keshawa_Udana",
+         "Monali Suriarachchi"
       ],
       "content": [
          "LICENSE.txt",
@@ -316,14 +340,15 @@
       ]
    },
    "anuja-rahul/python-datavault": {
-      "stars": 1,
+      "stars": 2,
       "views": 0,
       "clones": 3,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
       "stargazers": [
-         "Keshawa_Udana"
+         "Keshawa_Udana",
+         "Monali Suriarachchi"
       ],
       "content": [
          ".env",
@@ -337,14 +362,15 @@
       ]
    },
    "anuja-rahul/python_datalogger": {
-      "stars": 1,
+      "stars": 2,
       "views": 0,
       "clones": 1,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
       "stargazers": [
-         "Keshawa_Udana"
+         "Keshawa_Udana",
+         "Monali Suriarachchi"
       ],
       "content": [
          "LICENSE.txt",
@@ -358,14 +384,15 @@
       ]
    },
    "anuja-rahul/seat-booking-app": {
-      "stars": 1,
+      "stars": 2,
       "views": 1,
       "clones": 4,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
       "stargazers": [
-         "Keshawa_Udana"
+         "Keshawa_Udana",
+         "Monali Suriarachchi"
       ],
       "content": [
          "LICENSE.txt",
@@ -377,14 +404,15 @@
       ]
    },
    "anuja-rahul/socket-file-transfer": {
-      "stars": 1,
+      "stars": 2,
       "views": 0,
       "clones": 2,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
       "stargazers": [
-         "Keshawa_Udana"
+         "Keshawa_Udana",
+         "Monali Suriarachchi"
       ],
       "content": [
          ".gitignore",
@@ -414,14 +442,15 @@
       ]
    },
    "anuja-rahul/spotify-automation-v2": {
-      "stars": 1,
+      "stars": 2,
       "views": 1,
       "clones": 3,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
       "stargazers": [
-         "Keshawa_Udana"
+         "Keshawa_Udana",
+         "Monali Suriarachchi"
       ],
       "content": [
          ".env",
@@ -433,13 +462,15 @@
       ]
    },
    "anuja-rahul/stat-retrieval-using-riotAPI": {
-      "stars": 0,
+      "stars": 1,
       "views": 1,
       "clones": 6,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
-      "stargazers": [],
+      "stargazers": [
+         "Monali Suriarachchi"
+      ],
       "content": [
          ".gitattributes",
          "LICENSE.txt",
@@ -450,14 +481,15 @@
       ]
    },
    "anuja-rahul/Weather-CLI-App": {
-      "stars": 1,
-      "views": 72,
+      "stars": 2,
+      "views": 73,
       "clones": 45,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
       "stargazers": [
-         "Keshawa_Udana"
+         "Keshawa_Udana",
+         "Monali Suriarachchi"
       ],
       "content": [
          ".github",
@@ -472,14 +504,15 @@
       ]
    },
    "anuja-rahul/web-dev-cw.github.io": {
-      "stars": 1,
-      "views": 66,
-      "clones": 15,
+      "stars": 2,
+      "views": 34,
+      "clones": 9,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
       "stargazers": [
-         "Keshawa_Udana"
+         "Keshawa_Udana",
+         "Monali Suriarachchi"
       ],
       "content": [
          ".vscode",
@@ -493,14 +526,15 @@
       ]
    },
    "anuja-rahul/web-dev-water-project": {
-      "stars": 1,
-      "views": 0,
+      "stars": 2,
+      "views": 1,
       "clones": 0,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
       "stargazers": [
-         "Keshawa_Udana"
+         "Keshawa_Udana",
+         "Monali Suriarachchi"
       ],
       "content": [
          ".gitignore",
