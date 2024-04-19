@@ -62,7 +62,7 @@
    },
    "anuja-rahul/css-animations": {
       "stars": 2,
-      "views": 10,
+      "views": 7,
       "clones": 0,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
@@ -123,8 +123,8 @@
    },
    "anuja-rahul/github-stat-automation-python": {
       "stars": 2,
-      "views": 18,
-      "clones": 107,
+      "views": 25,
+      "clones": 106,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -147,8 +147,8 @@
    },
    "anuja-rahul/glisten-ai-remade": {
       "stars": 1,
-      "views": 53,
-      "clones": 60,
+      "views": 71,
+      "clones": 76,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -158,6 +158,7 @@
       "content": [
          ".eslintrc.json",
          ".gitignore",
+         ".hintrc",
          ".prettierignore",
          ".prettierrc",
          "LICENSE",
@@ -464,7 +465,7 @@
    "anuja-rahul/stat-retrieval-using-riotAPI": {
       "stars": 1,
       "views": 1,
-      "clones": 6,
+      "clones": 5,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -506,7 +507,7 @@
    "anuja-rahul/web-dev-cw.github.io": {
       "stars": 2,
       "views": 7,
-      "clones": 3,
+      "clones": 2,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
