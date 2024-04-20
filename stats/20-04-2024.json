@@ -1,8 +1,8 @@
 {
    "anuja-rahul/anuja-rahul": {
       "stars": 2,
-      "views": 12,
-      "clones": 30,
+      "views": 13,
+      "clones": 36,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -18,7 +18,7 @@
    },
    "anuja-rahul/apple-website": {
       "stars": 1,
-      "views": 230,
+      "views": 234,
       "clones": 52,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
@@ -42,8 +42,8 @@
    },
    "anuja-rahul/booking-app-javaCW": {
       "stars": 2,
-      "views": 32,
-      "clones": 6,
+      "views": 23,
+      "clones": 3,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -123,8 +123,8 @@
    },
    "anuja-rahul/github-stat-automation-python": {
       "stars": 2,
-      "views": 25,
-      "clones": 109,
+      "views": 14,
+      "clones": 110,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -147,8 +147,8 @@
    },
    "anuja-rahul/glisten-ai-remade": {
       "stars": 1,
-      "views": 85,
-      "clones": 76,
+      "views": 231,
+      "clones": 137,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -157,13 +157,17 @@
       ],
       "content": [
          ".eslintrc.json",
+         ".github",
          ".gitignore",
          ".hintrc",
          ".prettierignore",
          ".prettierrc",
+         "CODE_OF_CONDUCT.md",
+         "CONTRIBUTING.md",
          "LICENSE",
          "README.md",
          "customtypes",
+         "docs",
          "next.config.mjs",
          "package-lock.json",
          "package.json",
@@ -318,7 +322,7 @@
    "anuja-rahul/progression_tracker_OOP_V2": {
       "stars": 2,
       "views": 4,
-      "clones": 4,
+      "clones": 3,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -387,7 +391,7 @@
    "anuja-rahul/seat-booking-app": {
       "stars": 2,
       "views": 1,
-      "clones": 3,
+      "clones": 2,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -483,7 +487,7 @@
    },
    "anuja-rahul/Weather-CLI-App": {
       "stars": 2,
-      "views": 73,
+      "views": 70,
       "clones": 50,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
@@ -506,7 +510,7 @@
    },
    "anuja-rahul/web-dev-cw.github.io": {
       "stars": 2,
-      "views": 7,
+      "views": 6,
       "clones": 2,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
