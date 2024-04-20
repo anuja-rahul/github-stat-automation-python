@@ -2,7 +2,7 @@
    "anuja-rahul/anuja-rahul": {
       "stars": 2,
       "views": 13,
-      "clones": 36,
+      "clones": 38,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -42,7 +42,7 @@
    },
    "anuja-rahul/booking-app-javaCW": {
       "stars": 2,
-      "views": 23,
+      "views": 18,
       "clones": 3,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
@@ -105,8 +105,8 @@
    },
    "anuja-rahul/demo-portfolio.github.io": {
       "stars": 1,
-      "views": 92,
-      "clones": 47,
+      "views": 68,
+      "clones": 33,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -123,8 +123,8 @@
    },
    "anuja-rahul/github-stat-automation-python": {
       "stars": 2,
-      "views": 14,
-      "clones": 110,
+      "views": 13,
+      "clones": 112,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -147,7 +147,7 @@
    },
    "anuja-rahul/glisten-ai-remade": {
       "stars": 1,
-      "views": 231,
+      "views": 236,
       "clones": 137,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
@@ -177,6 +177,25 @@
          "src",
          "tailwind.config.js",
          "tsconfig.json"
+      ]
+   },
+   "anuja-rahul/iphone-3d-website": {
+      "stars": 0,
+      "views": 8,
+      "clones": 17,
+      "collaborators": [
+         "Anuja Rahul Gunasinghe"
+      ],
+      "stargazers": [],
+      "content": [
+         ".gitignore",
+         "README.md",
+         "index.html",
+         "package-lock.json",
+         "package.json",
+         "public",
+         "src",
+         "vite.config.js"
       ]
    },
    "anuja-rahul/login-ui": {
@@ -487,7 +506,7 @@
    },
    "anuja-rahul/Weather-CLI-App": {
       "stars": 2,
-      "views": 70,
+      "views": 63,
       "clones": 50,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
