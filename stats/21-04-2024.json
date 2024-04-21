@@ -42,7 +42,7 @@
    },
    "anuja-rahul/booking-app-javaCW": {
       "stars": 2,
-      "views": 18,
+      "views": 15,
       "clones": 3,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
@@ -105,8 +105,8 @@
    },
    "anuja-rahul/demo-portfolio.github.io": {
       "stars": 1,
-      "views": 68,
-      "clones": 33,
+      "views": 44,
+      "clones": 13,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -181,14 +181,16 @@
    },
    "anuja-rahul/iphone-3d-website": {
       "stars": 0,
-      "views": 8,
-      "clones": 17,
+      "views": 16,
+      "clones": 29,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
       "stargazers": [],
       "content": [
          ".gitignore",
+         "CODE_OF_CONDUCT.md",
+         "LICENSE",
          "README.md",
          "index.html",
          "package-lock.json",
@@ -506,7 +508,7 @@
    },
    "anuja-rahul/Weather-CLI-App": {
       "stars": 2,
-      "views": 63,
+      "views": 51,
       "clones": 50,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
