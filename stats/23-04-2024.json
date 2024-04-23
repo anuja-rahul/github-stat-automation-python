@@ -1,8 +1,8 @@
 {
    "anuja-rahul/anuja-rahul": {
       "stars": 2,
-      "views": 12,
-      "clones": 37,
+      "views": 15,
+      "clones": 36,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -42,7 +42,7 @@
    },
    "anuja-rahul/booking-app-javaCW": {
       "stars": 2,
-      "views": 3,
+      "views": 2,
       "clones": 3,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
@@ -105,7 +105,7 @@
    },
    "anuja-rahul/demo-portfolio.github.io": {
       "stars": 1,
-      "views": 10,
+      "views": 9,
       "clones": 4,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
@@ -124,7 +124,7 @@
    "anuja-rahul/github-stat-automation-python": {
       "stars": 2,
       "views": 13,
-      "clones": 114,
+      "clones": 113,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -181,7 +181,7 @@
    },
    "anuja-rahul/iphone-3d-website": {
       "stars": 0,
-      "views": 53,
+      "views": 55,
       "clones": 45,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
@@ -223,7 +223,7 @@
    },
    "anuja-rahul/markdown-everything": {
       "stars": 1,
-      "views": 3,
+      "views": 6,
       "clones": 2,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
@@ -275,8 +275,8 @@
    },
    "anuja-rahul/password-generator-using-Java": {
       "stars": 1,
-      "views": 9,
-      "clones": 2,
+      "views": 16,
+      "clones": 6,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -310,18 +310,27 @@
    },
    "anuja-rahul/portfolio": {
       "stars": 0,
-      "views": 0,
-      "clones": 0,
+      "views": 37,
+      "clones": 20,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
       "stargazers": [],
       "content": [
+         ".eslintrc.cjs",
          ".gitignore",
+         ".prettierrc",
+         "CODE_OF_CONDUCT.md",
+         "LICENSE",
          "README.md",
          "index.html",
-         "notes.txt",
-         "res"
+         "package-lock.json",
+         "package.json",
+         "postcss.config.js",
+         "public",
+         "src",
+         "tailwind.config.js",
+         "vite.config.js"
       ]
    },
    "anuja-rahul/portfolio-v2": {
@@ -412,7 +421,7 @@
    "anuja-rahul/seat-booking-app": {
       "stars": 2,
       "views": 1,
-      "clones": 2,
+      "clones": 3,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
