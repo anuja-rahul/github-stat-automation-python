@@ -1,7 +1,7 @@
 {
    "anuja-rahul/anuja-rahul": {
       "stars": 2,
-      "views": 15,
+      "views": 11,
       "clones": 39,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
@@ -18,7 +18,7 @@
    },
    "anuja-rahul/apple-website": {
       "stars": 1,
-      "views": 239,
+      "views": 192,
       "clones": 52,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
@@ -82,7 +82,7 @@
    },
    "anuja-rahul/demo-app-react": {
       "stars": 1,
-      "views": 2,
+      "views": 0,
       "clones": 2,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
@@ -123,7 +123,7 @@
    },
    "anuja-rahul/github-stat-automation-python": {
       "stars": 2,
-      "views": 20,
+      "views": 30,
       "clones": 111,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
@@ -147,7 +147,7 @@
    },
    "anuja-rahul/glisten-ai-remade": {
       "stars": 1,
-      "views": 237,
+      "views": 238,
       "clones": 139,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
@@ -223,7 +223,7 @@
    },
    "anuja-rahul/markdown-everything": {
       "stars": 1,
-      "views": 6,
+      "views": 3,
       "clones": 0,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
@@ -310,8 +310,8 @@
    },
    "anuja-rahul/portfolio": {
       "stars": 0,
-      "views": 55,
-      "clones": 33,
+      "views": 88,
+      "clones": 54,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -319,6 +319,7 @@
       "content": [
          ".eslintrc.cjs",
          ".gitignore",
+         ".hintrc",
          ".prettierrc",
          "CODE_OF_CONDUCT.md",
          "LICENSE",
@@ -420,7 +421,7 @@
    },
    "anuja-rahul/react-router-v6": {
       "stars": 0,
-      "views": 14,
+      "views": 17,
       "clones": 10,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
@@ -442,7 +443,7 @@
    },
    "anuja-rahul/seat-booking-app": {
       "stars": 2,
-      "views": 1,
+      "views": 0,
       "clones": 1,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
