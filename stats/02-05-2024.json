@@ -124,7 +124,7 @@
    "anuja-rahul/github-stat-automation-python": {
       "stars": 2,
       "views": 24,
-      "clones": 113,
+      "clones": 111,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -147,8 +147,8 @@
    },
    "anuja-rahul/glisten-ai-remade": {
       "stars": 1,
-      "views": 210,
-      "clones": 100,
+      "views": 206,
+      "clones": 94,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -310,8 +310,8 @@
    },
    "anuja-rahul/portfolio": {
       "stars": 0,
-      "views": 211,
-      "clones": 158,
+      "views": 336,
+      "clones": 257,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -331,6 +331,7 @@
          "public",
          "src",
          "tailwind.config.js",
+         "vercel.json",
          "vite.config.js"
       ]
    },
