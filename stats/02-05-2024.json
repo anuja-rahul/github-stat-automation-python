@@ -2,7 +2,7 @@
    "anuja-rahul/anuja-rahul": {
       "stars": 2,
       "views": 4,
-      "clones": 28,
+      "clones": 27,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -18,7 +18,7 @@
    },
    "anuja-rahul/apple-website": {
       "stars": 1,
-      "views": 19,
+      "views": 18,
       "clones": 0,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
@@ -124,7 +124,7 @@
    "anuja-rahul/github-stat-automation-python": {
       "stars": 2,
       "views": 24,
-      "clones": 111,
+      "clones": 110,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -147,8 +147,8 @@
    },
    "anuja-rahul/glisten-ai-remade": {
       "stars": 1,
-      "views": 206,
-      "clones": 94,
+      "views": 185,
+      "clones": 84,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -275,7 +275,7 @@
    },
    "anuja-rahul/password-generator-using-Java": {
       "stars": 1,
-      "views": 8,
+      "views": 9,
       "clones": 4,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
@@ -310,8 +310,8 @@
    },
    "anuja-rahul/portfolio": {
       "stars": 0,
-      "views": 336,
-      "clones": 257,
+      "views": 348,
+      "clones": 262,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -320,6 +320,7 @@
          ".eslintrc.cjs",
          ".gitignore",
          ".hintrc",
+         ".htaccess",
          ".prettierrc",
          "CODE_OF_CONDUCT.md",
          "LICENSE",
@@ -401,7 +402,7 @@
    "anuja-rahul/python_datalogger": {
       "stars": 2,
       "views": 0,
-      "clones": 4,
+      "clones": 3,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -541,7 +542,7 @@
    },
    "anuja-rahul/Weather-CLI-App": {
       "stars": 2,
-      "views": 118,
+      "views": 119,
       "clones": 60,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
