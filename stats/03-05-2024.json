@@ -2,7 +2,7 @@
    "anuja-rahul/anuja-rahul": {
       "stars": 2,
       "views": 4,
-      "clones": 28,
+      "clones": 26,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -124,7 +124,7 @@
    "anuja-rahul/github-stat-automation-python": {
       "stars": 2,
       "views": 17,
-      "clones": 109,
+      "clones": 106,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -147,8 +147,8 @@
    },
    "anuja-rahul/glisten-ai-remade": {
       "stars": 1,
-      "views": 168,
-      "clones": 68,
+      "views": 147,
+      "clones": 48,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -237,6 +237,28 @@
          "README.md"
       ]
    },
+   "anuja-rahul/nextjs-demo": {
+      "stars": 0,
+      "views": 3,
+      "clones": 10,
+      "collaborators": [
+         "Anuja Rahul Gunasinghe"
+      ],
+      "stargazers": [],
+      "content": [
+         ".eslintrc.json",
+         ".gitignore",
+         "README.md",
+         "app",
+         "next.config.mjs",
+         "package-lock.json",
+         "package.json",
+         "postcss.config.mjs",
+         "public",
+         "tailwind.config.ts",
+         "tsconfig.json"
+      ]
+   },
    "anuja-rahul/password-generator-using-Cpp": {
       "stars": 1,
       "views": 0,
@@ -310,7 +332,7 @@
    },
    "anuja-rahul/portfolio": {
       "stars": 0,
-      "views": 349,
+      "views": 350,
       "clones": 269,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
@@ -380,7 +402,7 @@
    "anuja-rahul/python-datavault": {
       "stars": 2,
       "views": 0,
-      "clones": 1,
+      "clones": 2,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -543,7 +565,7 @@
    "anuja-rahul/Weather-CLI-App": {
       "stars": 2,
       "views": 119,
-      "clones": 61,
+      "clones": 62,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
