@@ -1,8 +1,8 @@
 {
    "anuja-rahul/anuja-rahul": {
       "stars": 2,
-      "views": 4,
-      "clones": 26,
+      "views": 3,
+      "clones": 22,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -18,7 +18,7 @@
    },
    "anuja-rahul/apple-website": {
       "stars": 1,
-      "views": 18,
+      "views": 14,
       "clones": 0,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
@@ -124,7 +124,7 @@
    "anuja-rahul/github-stat-automation-python": {
       "stars": 2,
       "views": 17,
-      "clones": 106,
+      "clones": 105,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -147,8 +147,8 @@
    },
    "anuja-rahul/glisten-ai-remade": {
       "stars": 1,
-      "views": 147,
-      "clones": 48,
+      "views": 7,
+      "clones": 7,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -239,8 +239,8 @@
    },
    "anuja-rahul/nextjs-demo": {
       "stars": 0,
-      "views": 3,
-      "clones": 10,
+      "views": 7,
+      "clones": 16,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -330,9 +330,51 @@
          "main.py"
       ]
    },
-   "anuja-rahul/portfolio": {
+   "anuja-rahul/portfolio-next": {
       "stars": 0,
-      "views": 350,
+      "views": 17,
+      "clones": 39,
+      "collaborators": [
+         "Anuja Rahul Gunasinghe"
+      ],
+      "stargazers": [],
+      "content": [
+         ".eslintrc.json",
+         ".gitignore",
+         ".hintrc",
+         ".prettierrc",
+         "CODE_OF_CONDUCT.md",
+         "LICENSE",
+         "README.md",
+         "app",
+         "jsconfig.json",
+         "next.config.mjs",
+         "package-lock.json",
+         "package.json",
+         "postcss.config.mjs",
+         "public",
+         "tailwind.config.js"
+      ]
+   },
+   "anuja-rahul/portfolio-v2": {
+      "stars": 0,
+      "views": 0,
+      "clones": 0,
+      "collaborators": [
+         "Anuja Rahul Gunasinghe"
+      ],
+      "stargazers": [],
+      "content": [
+         ".gitignore",
+         "LICENSE",
+         "README.md",
+         "index.html",
+         "res"
+      ]
+   },
+   "anuja-rahul/portfolio-vite": {
+      "stars": 0,
+      "views": 352,
       "clones": 269,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
@@ -356,22 +398,6 @@
          "tailwind.config.js",
          "vercel.json",
          "vite.config.js"
-      ]
-   },
-   "anuja-rahul/portfolio-v2": {
-      "stars": 0,
-      "views": 0,
-      "clones": 0,
-      "collaborators": [
-         "Anuja Rahul Gunasinghe"
-      ],
-      "stargazers": [],
-      "content": [
-         ".gitignore",
-         "LICENSE",
-         "README.md",
-         "index.html",
-         "res"
       ]
    },
    "anuja-rahul/progression_tracker_OOP_V2": {
