@@ -2,7 +2,7 @@
    "anuja-rahul/anuja-rahul": {
       "stars": 2,
       "views": 3,
-      "clones": 22,
+      "clones": 20,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -181,8 +181,8 @@
    },
    "anuja-rahul/iphone-3d-website": {
       "stars": 0,
-      "views": 47,
-      "clones": 18,
+      "views": 18,
+      "clones": 5,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -332,8 +332,8 @@
    },
    "anuja-rahul/portfolio-next": {
       "stars": 0,
-      "views": 19,
-      "clones": 45,
+      "views": 23,
+      "clones": 48,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -428,7 +428,7 @@
    "anuja-rahul/python-datavault": {
       "stars": 2,
       "views": 0,
-      "clones": 2,
+      "clones": 3,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -511,6 +511,29 @@
          "security.py"
       ]
    },
+   "anuja-rahul/shop-nextjs": {
+      "stars": 0,
+      "views": 4,
+      "clones": 12,
+      "collaborators": [
+         "Anuja Rahul Gunasinghe"
+      ],
+      "stargazers": [],
+      "content": [
+         ".eslintrc.json",
+         ".gitignore",
+         ".prettierrc",
+         "README.md",
+         "next.config.mjs",
+         "package-lock.json",
+         "package.json",
+         "postcss.config.mjs",
+         "public",
+         "src",
+         "tailwind.config.ts",
+         "tsconfig.json"
+      ]
+   },
    "anuja-rahul/socket-file-transfer": {
       "stars": 2,
       "views": 3,
@@ -552,7 +575,7 @@
    "anuja-rahul/spotify-automation-v2": {
       "stars": 2,
       "views": 0,
-      "clones": 2,
+      "clones": 3,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
