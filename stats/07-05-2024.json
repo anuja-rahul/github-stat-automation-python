@@ -2,7 +2,7 @@
    "anuja-rahul/anuja-rahul": {
       "stars": 2,
       "views": 0,
-      "clones": 22,
+      "clones": 21,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -123,8 +123,8 @@
    },
    "anuja-rahul/github-stat-automation-python": {
       "stars": 2,
-      "views": 17,
-      "clones": 109,
+      "views": 22,
+      "clones": 107,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -280,7 +280,7 @@
    "anuja-rahul/password-generator-using-Go": {
       "stars": 1,
       "views": 0,
-      "clones": 3,
+      "clones": 4,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -374,7 +374,7 @@
    },
    "anuja-rahul/portfolio-vite": {
       "stars": 0,
-      "views": 315,
+      "views": 313,
       "clones": 252,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
@@ -513,8 +513,8 @@
    },
    "anuja-rahul/shop-nextjs": {
       "stars": 0,
-      "views": 6,
-      "clones": 17,
+      "views": 8,
+      "clones": 21,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -528,6 +528,7 @@
          "package-lock.json",
          "package.json",
          "postcss.config.mjs",
+         "prisma",
          "public",
          "src",
          "tailwind.config.ts",
@@ -613,8 +614,8 @@
    },
    "anuja-rahul/Weather-CLI-App": {
       "stars": 2,
-      "views": 129,
-      "clones": 65,
+      "views": 118,
+      "clones": 67,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
