@@ -1,8 +1,8 @@
 {
    "anuja-rahul/anuja-rahul": {
       "stars": 2,
-      "views": 0,
-      "clones": 28,
+      "views": 4,
+      "clones": 30,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -124,7 +124,7 @@
    "anuja-rahul/github-stat-automation-python": {
       "stars": 2,
       "views": 15,
-      "clones": 104,
+      "clones": 107,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -147,8 +147,8 @@
    },
    "anuja-rahul/glisten-ai-remade": {
       "stars": 1,
-      "views": 2,
-      "clones": 9,
+      "views": 1,
+      "clones": 7,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -182,7 +182,7 @@
    "anuja-rahul/iphone-3d-website": {
       "stars": 0,
       "views": 9,
-      "clones": 3,
+      "clones": 1,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -280,7 +280,7 @@
    "anuja-rahul/password-generator-using-Go": {
       "stars": 1,
       "views": 0,
-      "clones": 4,
+      "clones": 5,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -297,7 +297,7 @@
    },
    "anuja-rahul/password-generator-using-Java": {
       "stars": 1,
-      "views": 2,
+      "views": 3,
       "clones": 1,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
@@ -353,7 +353,8 @@
          "package.json",
          "postcss.config.mjs",
          "public",
-         "tailwind.config.js"
+         "tailwind.config.js",
+         "tsconfig.json"
       ]
    },
    "anuja-rahul/portfolio-v2": {
@@ -374,8 +375,8 @@
    },
    "anuja-rahul/portfolio-vite": {
       "stars": 0,
-      "views": 297,
-      "clones": 241,
+      "views": 281,
+      "clones": 235,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -449,7 +450,7 @@
    },
    "anuja-rahul/python_datalogger": {
       "stars": 2,
-      "views": 0,
+      "views": 1,
       "clones": 3,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
@@ -513,7 +514,7 @@
    },
    "anuja-rahul/shop-nextjs": {
       "stars": 0,
-      "views": 32,
+      "views": 34,
       "clones": 29,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
@@ -615,8 +616,8 @@
    },
    "anuja-rahul/Weather-CLI-App": {
       "stars": 2,
-      "views": 52,
-      "clones": 68,
+      "views": 44,
+      "clones": 67,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
