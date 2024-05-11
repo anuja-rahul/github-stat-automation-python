@@ -1,8 +1,8 @@
 {
    "anuja-rahul/anuja-rahul": {
       "stars": 2,
-      "views": 5,
-      "clones": 31,
+      "views": 14,
+      "clones": 38,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -13,12 +13,13 @@
       "content": [
          ".gitattributes",
          ".github",
-         "README.md"
+         "README.md",
+         "banner-theme.png"
       ]
    },
    "anuja-rahul/apple-website": {
       "stars": 1,
-      "views": 11,
+      "views": 10,
       "clones": 1,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
@@ -148,7 +149,7 @@
    "anuja-rahul/glisten-ai-remade": {
       "stars": 1,
       "views": 3,
-      "clones": 6,
+      "clones": 7,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -333,7 +334,7 @@
    "anuja-rahul/portfolio-next": {
       "stars": 0,
       "views": 24,
-      "clones": 66,
+      "clones": 69,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -375,8 +376,8 @@
    },
    "anuja-rahul/portfolio-vite": {
       "stars": 0,
-      "views": 258,
-      "clones": 202,
+      "views": 256,
+      "clones": 193,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -495,7 +496,7 @@
    "anuja-rahul/seat-booking-app": {
       "stars": 2,
       "views": 0,
-      "clones": 0,
+      "clones": 1,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -514,8 +515,8 @@
    },
    "anuja-rahul/shop-nextjs": {
       "stars": 0,
-      "views": 41,
-      "clones": 35,
+      "views": 53,
+      "clones": 45,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
