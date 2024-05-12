@@ -125,7 +125,7 @@
    "anuja-rahul/github-stat-automation-python": {
       "stars": 2,
       "views": 5,
-      "clones": 110,
+      "clones": 111,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -376,8 +376,8 @@
    },
    "anuja-rahul/portfolio-vite": {
       "stars": 0,
-      "views": 249,
-      "clones": 189,
+      "views": 221,
+      "clones": 163,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -405,7 +405,7 @@
    "anuja-rahul/progression_tracker_OOP_V2": {
       "stars": 2,
       "views": 0,
-      "clones": 3,
+      "clones": 2,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -515,8 +515,8 @@
    },
    "anuja-rahul/shop-nextjs": {
       "stars": 0,
-      "views": 54,
-      "clones": 45,
+      "views": 70,
+      "clones": 60,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -526,6 +526,8 @@
          ".gitignore",
          ".hintrc",
          ".prettierrc",
+         "CODE_OF_CONDUCT.md",
+         "LICENSE",
          "README.md",
          "next.config.mjs",
          "package-lock.json",
