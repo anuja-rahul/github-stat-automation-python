@@ -1,8 +1,8 @@
 {
    "anuja-rahul/anuja-rahul": {
       "stars": 2,
-      "views": 14,
-      "clones": 35,
+      "views": 38,
+      "clones": 53,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -149,7 +149,7 @@
    "anuja-rahul/glisten-ai-remade": {
       "stars": 1,
       "views": 3,
-      "clones": 6,
+      "clones": 5,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -182,7 +182,7 @@
    },
    "anuja-rahul/iphone-3d-website": {
       "stars": 0,
-      "views": 12,
+      "views": 10,
       "clones": 1,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
@@ -333,8 +333,8 @@
    },
    "anuja-rahul/portfolio-next": {
       "stars": 0,
-      "views": 25,
-      "clones": 69,
+      "views": 27,
+      "clones": 72,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -376,7 +376,7 @@
    },
    "anuja-rahul/portfolio-vite": {
       "stars": 0,
-      "views": 191,
+      "views": 192,
       "clones": 141,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
@@ -495,7 +495,7 @@
    },
    "anuja-rahul/seat-booking-app": {
       "stars": 2,
-      "views": 0,
+      "views": 1,
       "clones": 1,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
@@ -515,8 +515,8 @@
    },
    "anuja-rahul/shop-nextjs": {
       "stars": 0,
-      "views": 76,
-      "clones": 65,
+      "views": 83,
+      "clones": 74,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -526,6 +526,7 @@
          ".gitignore",
          ".hintrc",
          ".prettierrc",
+         "@types",
          "CODE_OF_CONDUCT.md",
          "LICENSE",
          "README.md",
@@ -619,8 +620,8 @@
    },
    "anuja-rahul/Weather-CLI-App": {
       "stars": 2,
-      "views": 53,
-      "clones": 69,
+      "views": 33,
+      "clones": 66,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
