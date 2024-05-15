@@ -2,7 +2,7 @@
    "anuja-rahul/anuja-rahul": {
       "stars": 2,
       "views": 38,
-      "clones": 55,
+      "clones": 54,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -123,15 +123,16 @@
       ]
    },
    "anuja-rahul/github-stat-automation-python": {
-      "stars": 2,
+      "stars": 3,
       "views": 5,
-      "clones": 108,
+      "clones": 110,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
       "stargazers": [
          "Keshawa_Udana",
-         "Monali Suriarachchi"
+         "Monali Suriarachchi",
+         "Shahrad Elahi"
       ],
       "content": [
          ".gitattributes",
@@ -148,7 +149,7 @@
    },
    "anuja-rahul/glisten-ai-remade": {
       "stars": 1,
-      "views": 3,
+      "views": 2,
       "clones": 5,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
@@ -240,7 +241,7 @@
    },
    "anuja-rahul/nextjs-demo": {
       "stars": 0,
-      "views": 10,
+      "views": 13,
       "clones": 17,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
@@ -298,7 +299,7 @@
    },
    "anuja-rahul/password-generator-using-Java": {
       "stars": 1,
-      "views": 12,
+      "views": 11,
       "clones": 1,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
@@ -514,13 +515,15 @@
       ]
    },
    "anuja-rahul/shop-nextjs": {
-      "stars": 0,
+      "stars": 1,
       "views": 94,
       "clones": 101,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
-      "stargazers": [],
+      "stargazers": [
+         "Shahrad Elahi"
+      ],
       "content": [
          ".eslintrc.json",
          ".gitignore",
@@ -619,15 +622,16 @@
       ]
    },
    "anuja-rahul/Weather-CLI-App": {
-      "stars": 2,
+      "stars": 3,
       "views": 33,
-      "clones": 66,
+      "clones": 65,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
       "stargazers": [
          "Keshawa_Udana",
-         "Monali Suriarachchi"
+         "Monali Suriarachchi",
+         "Shahrad Elahi"
       ],
       "content": [
          ".github",
