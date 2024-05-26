@@ -2,7 +2,7 @@
    "anuja-rahul/anuja-rahul": {
       "stars": 2,
       "views": 50,
-      "clones": 53,
+      "clones": 54,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -125,7 +125,7 @@
    "anuja-rahul/github-stat-automation-python": {
       "stars": 3,
       "views": 0,
-      "clones": 110,
+      "clones": 113,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -261,6 +261,32 @@
          "tsconfig.json"
       ]
    },
+   "anuja-rahul/novaa-demo": {
+      "stars": 0,
+      "views": 5,
+      "clones": 25,
+      "collaborators": [
+         "Anuja Rahul Gunasinghe"
+      ],
+      "stargazers": [],
+      "content": [
+         ".eslintrc.json",
+         ".gitignore",
+         ".hintrc",
+         ".prettierrc",
+         "CODE_OF_CONDUCT.md",
+         "LICENSE",
+         "README.md",
+         "next.config.mjs",
+         "package-lock.json",
+         "package.json",
+         "postcss.config.mjs",
+         "public",
+         "src",
+         "tailwind.config.ts",
+         "tsconfig.json"
+      ]
+   },
    "anuja-rahul/open-source-practice": {
       "stars": 0,
       "views": 13,
@@ -299,7 +325,7 @@
    "anuja-rahul/password-generator-using-Go": {
       "stars": 1,
       "views": 0,
-      "clones": 1,
+      "clones": 2,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -317,7 +343,7 @@
    "anuja-rahul/password-generator-using-Java": {
       "stars": 1,
       "views": 1,
-      "clones": 0,
+      "clones": 1,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -351,7 +377,7 @@
    },
    "anuja-rahul/portfolio-next": {
       "stars": 0,
-      "views": 7,
+      "views": 8,
       "clones": 6,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
@@ -378,8 +404,8 @@
    },
    "anuja-rahul/portfolio-nextjs": {
       "stars": 0,
-      "views": 61,
-      "clones": 102,
+      "views": 65,
+      "clones": 106,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -559,8 +585,8 @@
    },
    "anuja-rahul/shop-nextjs": {
       "stars": 1,
-      "views": 63,
-      "clones": 86,
+      "views": 47,
+      "clones": 71,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -648,7 +674,7 @@
    "anuja-rahul/stat-retrieval-using-riotAPI": {
       "stars": 1,
       "views": 0,
-      "clones": 0,
+      "clones": 1,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
