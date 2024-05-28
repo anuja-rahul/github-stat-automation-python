@@ -2,7 +2,7 @@
    "anuja-rahul/anuja-rahul": {
       "stars": 2,
       "views": 50,
-      "clones": 53,
+      "clones": 54,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -44,7 +44,7 @@
    "anuja-rahul/booking-app-javaCW": {
       "stars": 2,
       "views": 3,
-      "clones": 0,
+      "clones": 1,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -239,6 +239,29 @@
          "README.md"
       ]
    },
+   "anuja-rahul/modde": {
+      "stars": 0,
+      "views": 3,
+      "clones": 7,
+      "collaborators": [
+         "Anuja Rahul Gunasinghe"
+      ],
+      "stargazers": [],
+      "content": [
+         ".eslintrc.json",
+         ".gitignore",
+         ".prettierrc",
+         "README.md",
+         "next.config.mjs",
+         "package-lock.json",
+         "package.json",
+         "postcss.config.mjs",
+         "public",
+         "src",
+         "tailwind.config.ts",
+         "tsconfig.json"
+      ]
+   },
    "anuja-rahul/nextjs-demo": {
       "stars": 0,
       "views": 9,
@@ -263,7 +286,7 @@
    },
    "anuja-rahul/novaa-demo": {
       "stars": 0,
-      "views": 38,
+      "views": 53,
       "clones": 53,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
@@ -585,8 +608,8 @@
    },
    "anuja-rahul/shop-nextjs": {
       "stars": 1,
-      "views": 43,
-      "clones": 69,
+      "views": 41,
+      "clones": 66,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -692,8 +715,8 @@
    },
    "anuja-rahul/Weather-CLI-App": {
       "stars": 3,
-      "views": 20,
-      "clones": 49,
+      "views": 21,
+      "clones": 50,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
