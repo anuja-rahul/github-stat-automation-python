@@ -84,7 +84,7 @@
    "anuja-rahul/demo-app-react": {
       "stars": 1,
       "views": 3,
-      "clones": 1,
+      "clones": 2,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -107,7 +107,7 @@
    "anuja-rahul/demo-portfolio.github.io": {
       "stars": 1,
       "views": 0,
-      "clones": 1,
+      "clones": 2,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -122,10 +122,34 @@
          "react-portfolio"
       ]
    },
+   "anuja-rahul/esiit-nextjs": {
+      "stars": 0,
+      "views": 4,
+      "clones": 10,
+      "collaborators": [
+         "Anuja Rahul Gunasinghe"
+      ],
+      "stargazers": [],
+      "content": [
+         ".eslintrc.json",
+         ".gitignore",
+         ".hintrc",
+         ".prettierrc",
+         "README.md",
+         "next.config.mjs",
+         "package-lock.json",
+         "package.json",
+         "postcss.config.mjs",
+         "public",
+         "src",
+         "tailwind.config.ts",
+         "tsconfig.json"
+      ]
+   },
    "anuja-rahul/github-stat-automation-python": {
       "stars": 3,
       "views": 0,
-      "clones": 114,
+      "clones": 117,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -241,7 +265,7 @@
    },
    "anuja-rahul/modde": {
       "stars": 0,
-      "views": 5,
+      "views": 7,
       "clones": 14,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
@@ -286,7 +310,7 @@
    },
    "anuja-rahul/novaa-demo": {
       "stars": 0,
-      "views": 103,
+      "views": 105,
       "clones": 53,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
@@ -312,8 +336,8 @@
    },
    "anuja-rahul/open-source-practice": {
       "stars": 0,
-      "views": 18,
-      "clones": 14,
+      "views": 5,
+      "clones": 0,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -427,8 +451,8 @@
    },
    "anuja-rahul/portfolio-nextjs": {
       "stars": 0,
-      "views": 57,
-      "clones": 89,
+      "views": 53,
+      "clones": 77,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -639,7 +663,7 @@
    "anuja-rahul/socket-file-transfer": {
       "stars": 2,
       "views": 1,
-      "clones": 1,
+      "clones": 2,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -715,8 +739,8 @@
    },
    "anuja-rahul/Weather-CLI-App": {
       "stars": 3,
-      "views": 24,
-      "clones": 56,
+      "views": 15,
+      "clones": 58,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
