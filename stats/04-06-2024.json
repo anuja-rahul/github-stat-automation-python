@@ -1,8 +1,8 @@
 {
    "anuja-rahul/anuja-rahul": {
       "stars": 2,
-      "views": 12,
-      "clones": 33,
+      "views": 17,
+      "clones": 35,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -149,7 +149,7 @@
    "anuja-rahul/github-stat-automation-python": {
       "stars": 3,
       "views": 7,
-      "clones": 122,
+      "clones": 126,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -173,7 +173,7 @@
    },
    "anuja-rahul/glisten-ai-remade": {
       "stars": 1,
-      "views": 1,
+      "views": 6,
       "clones": 2,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
@@ -261,6 +261,28 @@
          ".gitattributes",
          "LICENSE.txt",
          "README.md"
+      ]
+   },
+   "anuja-rahul/maxwell-systems": {
+      "stars": 0,
+      "views": 0,
+      "clones": 0,
+      "collaborators": [
+         "Anuja Rahul Gunasinghe"
+      ],
+      "stargazers": [],
+      "content": [
+         ".eslintrc.json",
+         ".gitignore",
+         "README.md",
+         "next.config.mjs",
+         "package-lock.json",
+         "package.json",
+         "postcss.config.mjs",
+         "public",
+         "src",
+         "tailwind.config.ts",
+         "tsconfig.json"
       ]
    },
    "anuja-rahul/modde": {
@@ -451,7 +473,7 @@
    },
    "anuja-rahul/portfolio-nextjs": {
       "stars": 0,
-      "views": 31,
+      "views": 30,
       "clones": 37,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
@@ -632,8 +654,8 @@
    },
    "anuja-rahul/shop-nextjs": {
       "stars": 1,
-      "views": 1,
-      "clones": 5,
+      "views": 6,
+      "clones": 4,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -739,8 +761,8 @@
    },
    "anuja-rahul/Weather-CLI-App": {
       "stars": 3,
-      "views": 16,
-      "clones": 65,
+      "views": 57,
+      "clones": 67,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
