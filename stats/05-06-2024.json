@@ -1,7 +1,7 @@
 {
    "anuja-rahul/anuja-rahul": {
       "stars": 2,
-      "views": 17,
+      "views": 11,
       "clones": 35,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
@@ -124,7 +124,7 @@
    },
    "anuja-rahul/esiit-nextjs": {
       "stars": 0,
-      "views": 6,
+      "views": 8,
       "clones": 14,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
@@ -149,7 +149,7 @@
    "anuja-rahul/github-stat-automation-python": {
       "stars": 3,
       "views": 7,
-      "clones": 126,
+      "clones": 127,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -263,10 +263,10 @@
          "README.md"
       ]
    },
-   "anuja-rahul/maxwell-systems": {
+   "anuja-rahul/maxwell-designs": {
       "stars": 0,
-      "views": 0,
-      "clones": 0,
+      "views": 10,
+      "clones": 15,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -274,6 +274,9 @@
       "content": [
          ".eslintrc.json",
          ".gitignore",
+         ".prettierrc",
+         "CODE_OF_CONDUCT.md",
+         "LICENSE",
          "README.md",
          "next.config.mjs",
          "package-lock.json",
@@ -473,8 +476,8 @@
    },
    "anuja-rahul/portfolio-nextjs": {
       "stars": 0,
-      "views": 30,
-      "clones": 37,
+      "views": 20,
+      "clones": 25,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -761,7 +764,7 @@
    },
    "anuja-rahul/Weather-CLI-App": {
       "stars": 3,
-      "views": 57,
+      "views": 56,
       "clones": 67,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
@@ -786,7 +789,7 @@
    "anuja-rahul/web-dev-cw.github.io": {
       "stars": 2,
       "views": 0,
-      "clones": 3,
+      "clones": 2,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -808,7 +811,7 @@
    "anuja-rahul/web-dev-water-project": {
       "stars": 2,
       "views": 0,
-      "clones": 1,
+      "clones": 2,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
