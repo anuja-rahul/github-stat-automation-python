@@ -2,7 +2,7 @@
    "anuja-rahul/anuja-rahul": {
       "stars": 2,
       "views": 5,
-      "clones": 39,
+      "clones": 37,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -19,7 +19,7 @@
    },
    "anuja-rahul/apple-website": {
       "stars": 1,
-      "views": 1,
+      "views": 3,
       "clones": 2,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
@@ -64,7 +64,7 @@
    "anuja-rahul/css-animations": {
       "stars": 2,
       "views": 0,
-      "clones": 2,
+      "clones": 1,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -148,8 +148,8 @@
    },
    "anuja-rahul/github-stat-automation-python": {
       "stars": 3,
-      "views": 7,
-      "clones": 131,
+      "views": 14,
+      "clones": 133,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -230,7 +230,7 @@
    "anuja-rahul/login-ui": {
       "stars": 2,
       "views": 0,
-      "clones": 5,
+      "clones": 4,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -291,7 +291,7 @@
    },
    "anuja-rahul/modde": {
       "stars": 0,
-      "views": 4,
+      "views": 5,
       "clones": 8,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
@@ -451,7 +451,7 @@
    "anuja-rahul/portfolio-next": {
       "stars": 0,
       "views": 1,
-      "clones": 1,
+      "clones": 2,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -490,6 +490,28 @@
          ".prettierrc",
          "CODE_OF_CONDUCT.md",
          "LICENSE",
+         "README.md",
+         "next.config.mjs",
+         "package-lock.json",
+         "package.json",
+         "postcss.config.mjs",
+         "public",
+         "src",
+         "tailwind.config.ts",
+         "tsconfig.json"
+      ]
+   },
+   "anuja-rahul/portfolio-template": {
+      "stars": 0,
+      "views": 4,
+      "clones": 6,
+      "collaborators": [
+         "Anuja Rahul Gunasinghe"
+      ],
+      "stargazers": [],
+      "content": [
+         ".eslintrc.json",
+         ".gitignore",
          "README.md",
          "next.config.mjs",
          "package-lock.json",
@@ -548,7 +570,7 @@
    "anuja-rahul/progression_tracker_OOP_V2": {
       "stars": 2,
       "views": 3,
-      "clones": 1,
+      "clones": 0,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -573,7 +595,7 @@
    "anuja-rahul/python-datavault": {
       "stars": 2,
       "views": 2,
-      "clones": 2,
+      "clones": 0,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -595,7 +617,7 @@
    "anuja-rahul/python_datalogger": {
       "stars": 2,
       "views": 0,
-      "clones": 1,
+      "clones": 0,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -639,7 +661,7 @@
    "anuja-rahul/seat-booking-app": {
       "stars": 2,
       "views": 0,
-      "clones": 2,
+      "clones": 1,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -659,7 +681,7 @@
    "anuja-rahul/shop-nextjs": {
       "stars": 1,
       "views": 5,
-      "clones": 2,
+      "clones": 3,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -689,7 +711,7 @@
    "anuja-rahul/socket-file-transfer": {
       "stars": 2,
       "views": 1,
-      "clones": 2,
+      "clones": 1,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -727,7 +749,7 @@
    "anuja-rahul/spotify-automation-v2": {
       "stars": 2,
       "views": 0,
-      "clones": 1,
+      "clones": 0,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -765,7 +787,7 @@
    },
    "anuja-rahul/Weather-CLI-App": {
       "stars": 3,
-      "views": 65,
+      "views": 69,
       "clones": 71,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
