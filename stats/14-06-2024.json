@@ -2,7 +2,7 @@
    "anuja-rahul/anuja-rahul": {
       "stars": 2,
       "views": 5,
-      "clones": 37,
+      "clones": 36,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -18,14 +18,15 @@
       ]
    },
    "anuja-rahul/apple-website": {
-      "stars": 1,
+      "stars": 2,
       "views": 3,
       "clones": 2,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
       "stargazers": [
-         "Monali Suriarachchi"
+         "Monali Suriarachchi",
+         "Daniella"
       ],
       "content": [
          ".eslintrc.json",
@@ -44,7 +45,7 @@
    "anuja-rahul/booking-app-javaCW": {
       "stars": 2,
       "views": 0,
-      "clones": 1,
+      "clones": 2,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -64,7 +65,7 @@
    "anuja-rahul/css-animations": {
       "stars": 2,
       "views": 0,
-      "clones": 1,
+      "clones": 2,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -84,7 +85,7 @@
    "anuja-rahul/demo-app-react": {
       "stars": 1,
       "views": 0,
-      "clones": 2,
+      "clones": 1,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -107,7 +108,7 @@
    "anuja-rahul/demo-portfolio.github.io": {
       "stars": 1,
       "views": 0,
-      "clones": 2,
+      "clones": 3,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -149,7 +150,7 @@
    "anuja-rahul/github-stat-automation-python": {
       "stars": 3,
       "views": 14,
-      "clones": 133,
+      "clones": 129,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -230,7 +231,7 @@
    "anuja-rahul/login-ui": {
       "stars": 2,
       "views": 0,
-      "clones": 4,
+      "clones": 2,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -267,7 +268,7 @@
    "anuja-rahul/maxwell-designs": {
       "stars": 0,
       "views": 18,
-      "clones": 32,
+      "clones": 33,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -292,7 +293,7 @@
    "anuja-rahul/modde": {
       "stars": 0,
       "views": 5,
-      "clones": 8,
+      "clones": 7,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -315,7 +316,7 @@
    "anuja-rahul/nextjs-demo": {
       "stars": 0,
       "views": 1,
-      "clones": 0,
+      "clones": 1,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -336,7 +337,7 @@
    },
    "anuja-rahul/novaa-demo": {
       "stars": 0,
-      "views": 8,
+      "views": 2,
       "clones": 5,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
@@ -398,7 +399,7 @@
    "anuja-rahul/password-generator-using-Go": {
       "stars": 1,
       "views": 0,
-      "clones": 2,
+      "clones": 3,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -478,7 +479,7 @@
    "anuja-rahul/portfolio-nextjs": {
       "stars": 0,
       "views": 0,
-      "clones": 2,
+      "clones": 4,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -595,7 +596,7 @@
    "anuja-rahul/python-datavault": {
       "stars": 2,
       "views": 2,
-      "clones": 0,
+      "clones": 1,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -617,7 +618,7 @@
    "anuja-rahul/python_datalogger": {
       "stars": 2,
       "views": 0,
-      "clones": 0,
+      "clones": 1,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -639,7 +640,7 @@
    "anuja-rahul/react-router-v6": {
       "stars": 0,
       "views": 1,
-      "clones": 0,
+      "clones": 1,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -681,7 +682,7 @@
    "anuja-rahul/shop-nextjs": {
       "stars": 1,
       "views": 5,
-      "clones": 3,
+      "clones": 5,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -749,7 +750,7 @@
    "anuja-rahul/spotify-automation-v2": {
       "stars": 2,
       "views": 0,
-      "clones": 0,
+      "clones": 1,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -788,7 +789,7 @@
    "anuja-rahul/Weather-CLI-App": {
       "stars": 3,
       "views": 69,
-      "clones": 71,
+      "clones": 69,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
