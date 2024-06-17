@@ -2,7 +2,7 @@
    "anuja-rahul/anuja-rahul": {
       "stars": 2,
       "views": 5,
-      "clones": 37,
+      "clones": 38,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -126,7 +126,7 @@
    "anuja-rahul/esiit-nextjs": {
       "stars": 0,
       "views": 91,
-      "clones": 29,
+      "clones": 28,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -151,8 +151,8 @@
    },
    "anuja-rahul/github-stat-automation-python": {
       "stars": 3,
-      "views": 14,
-      "clones": 120,
+      "views": 7,
+      "clones": 119,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -295,7 +295,7 @@
    "anuja-rahul/modde": {
       "stars": 0,
       "views": 5,
-      "clones": 9,
+      "clones": 8,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -340,7 +340,7 @@
    "anuja-rahul/novaa-demo": {
       "stars": 0,
       "views": 0,
-      "clones": 8,
+      "clones": 6,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -790,8 +790,8 @@
    },
    "anuja-rahul/Weather-CLI-App": {
       "stars": 3,
-      "views": 70,
-      "clones": 63,
+      "views": 64,
+      "clones": 60,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -851,6 +851,38 @@
          "README.md",
          "index.html",
          "res"
+      ]
+   },
+   "anuja-rahul/wooting-analog-sdk": {
+      "stars": 0,
+      "views": 0,
+      "clones": 0,
+      "collaborators": [
+         "Anuja Rahul Gunasinghe"
+      ],
+      "stargazers": [],
+      "content": [
+         ".github",
+         ".gitignore",
+         "Cargo.lock",
+         "Cargo.toml",
+         "LICENSE",
+         "Makefile.toml",
+         "PLUGINS.md",
+         "README.md",
+         "SDK_USAGE.md",
+         "ci",
+         "includes-cpp",
+         "includes",
+         "rust-toolchain",
+         "wooting-analog-common",
+         "wooting-analog-plugin-dev",
+         "wooting-analog-plugin",
+         "wooting-analog-sdk-updater",
+         "wooting-analog-sdk",
+         "wooting-analog-test-plugin",
+         "wooting-analog-virtual-control",
+         "wooting-analog-wrapper"
       ]
    }
 }
