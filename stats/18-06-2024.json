@@ -2,7 +2,7 @@
    "anuja-rahul/anuja-rahul": {
       "stars": 2,
       "views": 5,
-      "clones": 38,
+      "clones": 36,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -125,8 +125,8 @@
    },
    "anuja-rahul/esiit-nextjs": {
       "stars": 0,
-      "views": 91,
-      "clones": 28,
+      "views": 97,
+      "clones": 27,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -152,7 +152,7 @@
    "anuja-rahul/github-stat-automation-python": {
       "stars": 3,
       "views": 7,
-      "clones": 119,
+      "clones": 117,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -207,6 +207,18 @@
          "src",
          "tailwind.config.js",
          "tsconfig.json"
+      ]
+   },
+   "anuja-rahul/intro-to-mojo": {
+      "stars": 0,
+      "views": 5,
+      "clones": 6,
+      "collaborators": [
+         "Anuja Rahul Gunasinghe"
+      ],
+      "stargazers": [],
+      "content": [
+         "main.mojo"
       ]
    },
    "anuja-rahul/iphone-3d-website": {
@@ -340,7 +352,7 @@
    "anuja-rahul/novaa-demo": {
       "stars": 0,
       "views": 0,
-      "clones": 6,
+      "clones": 4,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -454,7 +466,7 @@
    "anuja-rahul/portfolio-next": {
       "stars": 0,
       "views": 1,
-      "clones": 3,
+      "clones": 2,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -481,7 +493,7 @@
    "anuja-rahul/portfolio-nextjs": {
       "stars": 0,
       "views": 1,
-      "clones": 11,
+      "clones": 10,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -684,7 +696,7 @@
    "anuja-rahul/shop-nextjs": {
       "stars": 1,
       "views": 5,
-      "clones": 5,
+      "clones": 4,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -790,8 +802,8 @@
    },
    "anuja-rahul/Weather-CLI-App": {
       "stars": 3,
-      "views": 64,
-      "clones": 60,
+      "views": 63,
+      "clones": 57,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -855,8 +867,8 @@
    },
    "anuja-rahul/wooting-analog-sdk": {
       "stars": 0,
-      "views": 0,
-      "clones": 0,
+      "views": 2,
+      "clones": 1,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
