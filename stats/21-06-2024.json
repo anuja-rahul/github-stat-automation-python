@@ -2,7 +2,7 @@
    "anuja-rahul/anuja-rahul": {
       "stars": 2,
       "views": 0,
-      "clones": 34,
+      "clones": 32,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -125,7 +125,7 @@
    },
    "anuja-rahul/esiit-nextjs": {
       "stars": 0,
-      "views": 109,
+      "views": 112,
       "clones": 26,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
@@ -152,7 +152,7 @@
    "anuja-rahul/github-stat-automation-python": {
       "stars": 3,
       "views": 7,
-      "clones": 120,
+      "clones": 121,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -177,7 +177,7 @@
    "anuja-rahul/glisten-ai-remade": {
       "stars": 2,
       "views": 1,
-      "clones": 3,
+      "clones": 4,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -224,7 +224,7 @@
    "anuja-rahul/iphone-3d-website": {
       "stars": 0,
       "views": 0,
-      "clones": 1,
+      "clones": 3,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -282,7 +282,7 @@
    "anuja-rahul/maxwell-designs": {
       "stars": 0,
       "views": 7,
-      "clones": 14,
+      "clones": 10,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -627,6 +627,23 @@
          "requirements.txt",
          "symmetric_handler.py",
          "test.py"
+      ]
+   },
+   "anuja-rahul/python-fastAPI": {
+      "stars": 0,
+      "views": 8,
+      "clones": 20,
+      "collaborators": [
+         "Anuja Rahul Gunasinghe"
+      ],
+      "stargazers": [],
+      "content": [
+         ".gitignore",
+         ".vscode",
+         "LICENSE",
+         "README.md",
+         "__pycache__",
+         "main.py"
       ]
    },
    "anuja-rahul/python_datalogger": {
