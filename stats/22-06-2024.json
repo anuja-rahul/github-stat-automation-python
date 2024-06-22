@@ -2,7 +2,7 @@
    "anuja-rahul/anuja-rahul": {
       "stars": 2,
       "views": 0,
-      "clones": 32,
+      "clones": 29,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -20,7 +20,7 @@
    "anuja-rahul/apple-website": {
       "stars": 2,
       "views": 30,
-      "clones": 1,
+      "clones": 2,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -44,7 +44,7 @@
    },
    "anuja-rahul/booking-app-javaCW": {
       "stars": 2,
-      "views": 0,
+      "views": 2,
       "clones": 3,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
@@ -85,7 +85,7 @@
    "anuja-rahul/demo-app-react": {
       "stars": 1,
       "views": 0,
-      "clones": 1,
+      "clones": 2,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -125,8 +125,8 @@
    },
    "anuja-rahul/esiit-nextjs": {
       "stars": 0,
-      "views": 112,
-      "clones": 26,
+      "views": 127,
+      "clones": 34,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -139,6 +139,7 @@
          "CODE_OF_CONDUCT.md",
          "LICENSE",
          "README.md",
+         "lib",
          "next.config.mjs",
          "package-lock.json",
          "package.json",
@@ -152,7 +153,7 @@
    "anuja-rahul/github-stat-automation-python": {
       "stars": 3,
       "views": 7,
-      "clones": 121,
+      "clones": 113,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -281,8 +282,8 @@
    },
    "anuja-rahul/maxwell-designs": {
       "stars": 0,
-      "views": 7,
-      "clones": 10,
+      "views": 4,
+      "clones": 11,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -307,7 +308,7 @@
    "anuja-rahul/modde": {
       "stars": 0,
       "views": 5,
-      "clones": 8,
+      "clones": 9,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -352,7 +353,7 @@
    "anuja-rahul/novaa-demo": {
       "stars": 0,
       "views": 0,
-      "clones": 4,
+      "clones": 6,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -378,7 +379,7 @@
    "anuja-rahul/open-source-practice": {
       "stars": 0,
       "views": 0,
-      "clones": 0,
+      "clones": 2,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -492,7 +493,7 @@
    },
    "anuja-rahul/portfolio-nextjs": {
       "stars": 0,
-      "views": 1,
+      "views": 3,
       "clones": 10,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
@@ -631,8 +632,8 @@
    },
    "anuja-rahul/python-fastAPI": {
       "stars": 0,
-      "views": 8,
-      "clones": 20,
+      "views": 11,
+      "clones": 22,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -693,7 +694,7 @@
    "anuja-rahul/rust-calculator": {
       "stars": 0,
       "views": 10,
-      "clones": 17,
+      "clones": 18,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -838,8 +839,8 @@
    },
    "anuja-rahul/Weather-CLI-App": {
       "stars": 3,
-      "views": 22,
-      "clones": 54,
+      "views": 8,
+      "clones": 53,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
