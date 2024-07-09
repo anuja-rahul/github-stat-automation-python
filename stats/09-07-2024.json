@@ -65,7 +65,7 @@
    "anuja-rahul/css-animations": {
       "stars": 2,
       "views": 0,
-      "clones": 1,
+      "clones": 0,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -108,7 +108,7 @@
    "anuja-rahul/demo-portfolio.github.io": {
       "stars": 1,
       "views": 0,
-      "clones": 2,
+      "clones": 1,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -125,7 +125,7 @@
    },
    "anuja-rahul/esiit-nextjs": {
       "stars": 0,
-      "views": 95,
+      "views": 82,
       "clones": 1,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
@@ -153,7 +153,7 @@
    "anuja-rahul/github-stat-automation-python": {
       "stars": 3,
       "views": 19,
-      "clones": 50,
+      "clones": 47,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -226,7 +226,7 @@
    "anuja-rahul/iphone-3d-website": {
       "stars": 0,
       "views": 3,
-      "clones": 1,
+      "clones": 0,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -247,7 +247,7 @@
    "anuja-rahul/login-ui": {
       "stars": 2,
       "views": 0,
-      "clones": 2,
+      "clones": 0,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -397,7 +397,7 @@
    "anuja-rahul/password-generator-using-Cpp": {
       "stars": 1,
       "views": 0,
-      "clones": 1,
+      "clones": 0,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -433,7 +433,7 @@
    "anuja-rahul/password-generator-using-Java": {
       "stars": 1,
       "views": 0,
-      "clones": 2,
+      "clones": 1,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -559,7 +559,7 @@
    "anuja-rahul/portfolio-vite": {
       "stars": 0,
       "views": 7,
-      "clones": 1,
+      "clones": 0,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -633,8 +633,8 @@
    },
    "anuja-rahul/python-fastAPI": {
       "stars": 0,
-      "views": 24,
-      "clones": 9,
+      "views": 31,
+      "clones": 13,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -645,7 +645,7 @@
          "LICENSE",
          "README.md",
          "__pycache__",
-         "main.py"
+         "app"
       ]
    },
    "anuja-rahul/python_datalogger": {
@@ -673,7 +673,7 @@
    "anuja-rahul/react-router-v6": {
       "stars": 0,
       "views": 0,
-      "clones": 1,
+      "clones": 0,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -734,7 +734,7 @@
    "anuja-rahul/shop-nextjs": {
       "stars": 1,
       "views": 19,
-      "clones": 5,
+      "clones": 4,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -802,7 +802,7 @@
    "anuja-rahul/spotify-automation-v2": {
       "stars": 2,
       "views": 0,
-      "clones": 2,
+      "clones": 1,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -840,8 +840,8 @@
    },
    "anuja-rahul/Weather-CLI-App": {
       "stars": 3,
-      "views": 21,
-      "clones": 35,
+      "views": 24,
+      "clones": 32,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -865,7 +865,7 @@
    "anuja-rahul/web-dev-cw.github.io": {
       "stars": 2,
       "views": 0,
-      "clones": 1,
+      "clones": 0,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -887,7 +887,7 @@
    "anuja-rahul/web-dev-water-project": {
       "stars": 2,
       "views": 0,
-      "clones": 2,
+      "clones": 1,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
