@@ -12,3 +12,8 @@ if you are running locally 💻 **hardcode** it on the script file 📜 or save 
 
 currently working on documentation 📄  
 I will further explain in here soon.
+
+
+
+##### Gonna change the handler class completely.
+##### Now I see more ways to optimise this code.
