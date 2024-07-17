@@ -5,15 +5,8 @@
 
 Script is working fine for now.  
 
-set up a `GitHub token` 🔑 and save it to an env variable or a GitHub secret before running anything.  
-
-if you are running locally 💻 **hardcode** it on the script file 📜 or save it on an `.env` file.
+set up a `GitHub token` 🔑 and save it to an env variable or a GitHub secret before running.
 
 
-currently working on documentation 📄  
-I will further explain in here soon.
-
-
-
-##### Gonna change the handler class completely.
-##### Now I see more ways to optimise this code.
+#### Gonna change the handler class completely.
+#### Now I see more ways to optimise this code.
