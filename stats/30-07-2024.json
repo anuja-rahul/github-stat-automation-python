@@ -2,7 +2,7 @@
    "anuja-rahul/anuja-rahul": {
       "stars": 2,
       "views": 10,
-      "clones": 8,
+      "clones": 9,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -154,7 +154,7 @@
    "anuja-rahul/github-stat-automation-python": {
       "stars": 3,
       "views": 11,
-      "clones": 32,
+      "clones": 33,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -332,8 +332,8 @@
    },
    "anuja-rahul/MODDE-demo-api": {
       "stars": 0,
-      "views": 5,
-      "clones": 4,
+      "views": 0,
+      "clones": 1,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -648,8 +648,8 @@
    },
    "anuja-rahul/python-fastAPI": {
       "stars": 0,
-      "views": 40,
-      "clones": 20,
+      "views": 36,
+      "clones": 18,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -660,7 +660,8 @@
          "LICENSE",
          "README.md",
          "__pycache__",
-         "app"
+         "app",
+         "requirements.txt"
       ]
    },
    "anuja-rahul/python_datalogger": {
@@ -688,7 +689,7 @@
    "anuja-rahul/react-router-v6": {
       "stars": 0,
       "views": 0,
-      "clones": 1,
+      "clones": 2,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -856,7 +857,7 @@
    "anuja-rahul/Weather-CLI-App": {
       "stars": 3,
       "views": 35,
-      "clones": 30,
+      "clones": 32,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
