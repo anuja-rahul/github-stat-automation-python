@@ -20,7 +20,7 @@
    },
    "anuja-rahul/apple-website": {
       "stars": 2,
-      "views": 6,
+      "views": 5,
       "clones": 0,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
@@ -126,7 +126,7 @@
    },
    "anuja-rahul/esiit-nextjs": {
       "stars": 0,
-      "views": 3,
+      "views": 2,
       "clones": 0,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
@@ -154,7 +154,7 @@
    "anuja-rahul/github-stat-automation-python": {
       "stars": 3,
       "views": 11,
-      "clones": 33,
+      "clones": 35,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -347,7 +347,7 @@
    "anuja-rahul/nextjs-demo": {
       "stars": 0,
       "views": 0,
-      "clones": 2,
+      "clones": 1,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -369,7 +369,7 @@
    "anuja-rahul/novaa-demo": {
       "stars": 0,
       "views": 0,
-      "clones": 3,
+      "clones": 2,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -466,7 +466,7 @@
    "anuja-rahul/password-generator-using-Python": {
       "stars": 1,
       "views": 0,
-      "clones": 2,
+      "clones": 1,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -602,7 +602,7 @@
    "anuja-rahul/progression_tracker_OOP_V2": {
       "stars": 2,
       "views": 0,
-      "clones": 1,
+      "clones": 0,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -648,7 +648,7 @@
    },
    "anuja-rahul/python-fastAPI": {
       "stars": 0,
-      "views": 36,
+      "views": 35,
       "clones": 18,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
@@ -661,6 +661,19 @@
          "README.md",
          "__pycache__",
          "app",
+         "requirements.txt"
+      ]
+   },
+   "anuja-rahul/Python-ImageClassification": {
+      "stars": 0,
+      "views": 4,
+      "clones": 4,
+      "collaborators": [
+         "Anuja Rahul Gunasinghe"
+      ],
+      "stargazers": [],
+      "content": [
+         "main.py",
          "requirements.txt"
       ]
    },
@@ -838,7 +851,7 @@
    "anuja-rahul/stat-retrieval-using-riotAPI": {
       "stars": 1,
       "views": 0,
-      "clones": 3,
+      "clones": 2,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -856,8 +869,8 @@
    },
    "anuja-rahul/Weather-CLI-App": {
       "stars": 3,
-      "views": 35,
-      "clones": 32,
+      "views": 30,
+      "clones": 33,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -903,7 +916,7 @@
    "anuja-rahul/web-dev-water-project": {
       "stars": 2,
       "views": 0,
-      "clones": 1,
+      "clones": 2,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -965,6 +978,36 @@
          "LICENSE",
          "README.md",
          "images"
+      ]
+   },
+   "HeliozIT/.github": {
+      "stars": 0,
+      "views": 44,
+      "clones": 5,
+      "collaborators": [
+         "Anuja Rahul Gunasinghe",
+         "Keshawa_Udana"
+      ],
+      "stargazers": [],
+      "content": [
+         "IMG-20240703-WA0016.jpg",
+         "profile"
+      ]
+   },
+   "HeliozIT/demo-repository": {
+      "stars": 0,
+      "views": 7,
+      "clones": 0,
+      "collaborators": [
+         "Anuja Rahul Gunasinghe",
+         "Keshawa_Udana"
+      ],
+      "stargazers": [],
+      "content": [
+         ".github",
+         "README.md",
+         "index.html",
+         "package.json"
       ]
    }
 }
