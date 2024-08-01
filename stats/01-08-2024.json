@@ -2,7 +2,7 @@
    "anuja-rahul/anuja-rahul": {
       "stars": 2,
       "views": 10,
-      "clones": 9,
+      "clones": 10,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -154,7 +154,7 @@
    "anuja-rahul/github-stat-automation-python": {
       "stars": 3,
       "views": 11,
-      "clones": 35,
+      "clones": 32,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -214,7 +214,7 @@
    "anuja-rahul/intro-to-mojo": {
       "stars": 0,
       "views": 0,
-      "clones": 2,
+      "clones": 1,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -227,7 +227,7 @@
    "anuja-rahul/iphone-3d-website": {
       "stars": 0,
       "views": 0,
-      "clones": 2,
+      "clones": 1,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -310,7 +310,7 @@
    "anuja-rahul/modde": {
       "stars": 0,
       "views": 0,
-      "clones": 4,
+      "clones": 3,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -347,7 +347,7 @@
    "anuja-rahul/nextjs-demo": {
       "stars": 0,
       "views": 0,
-      "clones": 1,
+      "clones": 0,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -369,7 +369,7 @@
    "anuja-rahul/novaa-demo": {
       "stars": 0,
       "views": 0,
-      "clones": 2,
+      "clones": 1,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -648,8 +648,8 @@
    },
    "anuja-rahul/python-fastAPI": {
       "stars": 0,
-      "views": 35,
-      "clones": 18,
+      "views": 34,
+      "clones": 16,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -763,7 +763,7 @@
    "anuja-rahul/shop-nextjs": {
       "stars": 1,
       "views": 0,
-      "clones": 3,
+      "clones": 2,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -870,7 +870,7 @@
    "anuja-rahul/Weather-CLI-App": {
       "stars": 3,
       "views": 30,
-      "clones": 33,
+      "clones": 27,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -916,7 +916,7 @@
    "anuja-rahul/web-dev-water-project": {
       "stars": 2,
       "views": 0,
-      "clones": 2,
+      "clones": 3,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -966,8 +966,8 @@
    },
    "Exp-Intro-to-GitHub-Flow-Cohort-2/series-intro-to-github-flow-anuja-rahul": {
       "stars": 0,
-      "views": 2,
-      "clones": 8,
+      "views": 0,
+      "clones": 2,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -1008,6 +1008,43 @@
          "README.md",
          "index.html",
          "package.json"
+      ]
+   },
+   "HeliozIT/ModdeMLmodelv1": {
+      "stars": 0,
+      "views": 43,
+      "clones": 5,
+      "collaborators": [
+         "Anuja Rahul Gunasinghe",
+         "Keshawa_Udana"
+      ],
+      "stargazers": [],
+      "content": [
+         "README.md",
+         "imgprep.py"
+      ]
+   },
+   "HeliozIT/signupmodde": {
+      "stars": 0,
+      "views": 11,
+      "clones": 7,
+      "collaborators": [
+         "Anuja Rahul Gunasinghe",
+         "Keshawa_Udana"
+      ],
+      "stargazers": [],
+      "content": [
+         ".eslintrc.json",
+         ".gitignore",
+         "README.md",
+         "app",
+         "next.config.mjs",
+         "package-lock.json",
+         "package.json",
+         "postcss.config.mjs",
+         "public",
+         "tailwind.config.ts",
+         "tsconfig.json"
       ]
    }
 }
