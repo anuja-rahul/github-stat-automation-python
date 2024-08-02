@@ -20,7 +20,7 @@
    },
    "anuja-rahul/apple-website": {
       "stars": 2,
-      "views": 5,
+      "views": 4,
       "clones": 0,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
@@ -154,7 +154,7 @@
    "anuja-rahul/github-stat-automation-python": {
       "stars": 3,
       "views": 11,
-      "clones": 32,
+      "clones": 33,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -178,7 +178,7 @@
    },
    "anuja-rahul/glisten-ai-remade": {
       "stars": 2,
-      "views": 0,
+      "views": 1,
       "clones": 0,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
@@ -369,7 +369,7 @@
    "anuja-rahul/novaa-demo": {
       "stars": 0,
       "views": 0,
-      "clones": 1,
+      "clones": 0,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -412,7 +412,7 @@
    "anuja-rahul/password-generator-using-Cpp": {
       "stars": 1,
       "views": 3,
-      "clones": 2,
+      "clones": 1,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -448,7 +448,7 @@
    "anuja-rahul/password-generator-using-Java": {
       "stars": 1,
       "views": 0,
-      "clones": 1,
+      "clones": 0,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -743,7 +743,7 @@
    "anuja-rahul/seat-booking-app": {
       "stars": 2,
       "views": 9,
-      "clones": 2,
+      "clones": 3,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -763,7 +763,7 @@
    "anuja-rahul/shop-nextjs": {
       "stars": 1,
       "views": 0,
-      "clones": 2,
+      "clones": 3,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -870,7 +870,7 @@
    "anuja-rahul/Weather-CLI-App": {
       "stars": 3,
       "views": 30,
-      "clones": 27,
+      "clones": 28,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -986,6 +986,7 @@
       "clones": 5,
       "collaborators": [
          "Anuja Rahul Gunasinghe",
+         "Achintha Ekanayake",
          "Keshawa_Udana"
       ],
       "stargazers": [],
@@ -1000,6 +1001,7 @@
       "clones": 0,
       "collaborators": [
          "Anuja Rahul Gunasinghe",
+         "Achintha Ekanayake",
          "Keshawa_Udana"
       ],
       "stargazers": [],
@@ -1012,10 +1014,11 @@
    },
    "HeliozIT/ModdeMLmodelv1": {
       "stars": 0,
-      "views": 43,
+      "views": 55,
       "clones": 5,
       "collaborators": [
          "Anuja Rahul Gunasinghe",
+         "Achintha Ekanayake",
          "Keshawa_Udana"
       ],
       "stargazers": [],
@@ -1026,10 +1029,11 @@
    },
    "HeliozIT/signupmodde": {
       "stars": 0,
-      "views": 11,
-      "clones": 7,
+      "views": 26,
+      "clones": 14,
       "collaborators": [
          "Anuja Rahul Gunasinghe",
+         "Achintha Ekanayake",
          "Keshawa_Udana"
       ],
       "stargazers": [],
