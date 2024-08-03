@@ -2,7 +2,7 @@
    "anuja-rahul/anuja-rahul": {
       "stars": 2,
       "views": 10,
-      "clones": 10,
+      "clones": 12,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -20,8 +20,8 @@
    },
    "anuja-rahul/apple-website": {
       "stars": 2,
-      "views": 4,
-      "clones": 0,
+      "views": 3,
+      "clones": 1,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -109,7 +109,7 @@
    "anuja-rahul/demo-portfolio.github.io": {
       "stars": 1,
       "views": 0,
-      "clones": 2,
+      "clones": 1,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -154,7 +154,7 @@
    "anuja-rahul/github-stat-automation-python": {
       "stars": 3,
       "views": 11,
-      "clones": 33,
+      "clones": 35,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -177,15 +177,16 @@
       ]
    },
    "anuja-rahul/glisten-ai-remade": {
-      "stars": 2,
-      "views": 1,
-      "clones": 0,
+      "stars": 3,
+      "views": 4,
+      "clones": 1,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
       "stargazers": [
          "Monali Suriarachchi",
-         "SEBAANA YUSUF SALIM"
+         "SEBAANA YUSUF SALIM",
+         "Reza"
       ],
       "content": [
          ".eslintrc.json",
@@ -213,7 +214,7 @@
    },
    "anuja-rahul/intro-to-mojo": {
       "stars": 0,
-      "views": 0,
+      "views": 3,
       "clones": 1,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
@@ -447,7 +448,7 @@
    },
    "anuja-rahul/password-generator-using-Java": {
       "stars": 1,
-      "views": 0,
+      "views": 12,
       "clones": 0,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
@@ -483,7 +484,7 @@
    "anuja-rahul/portfolio-next": {
       "stars": 0,
       "views": 0,
-      "clones": 0,
+      "clones": 1,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -648,8 +649,8 @@
    },
    "anuja-rahul/python-fastAPI": {
       "stars": 0,
-      "views": 34,
-      "clones": 16,
+      "views": 62,
+      "clones": 26,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -666,7 +667,7 @@
    },
    "anuja-rahul/Python-ImageClassification": {
       "stars": 0,
-      "views": 4,
+      "views": 11,
       "clones": 4,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
@@ -702,7 +703,7 @@
    "anuja-rahul/react-router-v6": {
       "stars": 0,
       "views": 0,
-      "clones": 2,
+      "clones": 3,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -743,7 +744,7 @@
    "anuja-rahul/seat-booking-app": {
       "stars": 2,
       "views": 9,
-      "clones": 3,
+      "clones": 2,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -869,8 +870,8 @@
    },
    "anuja-rahul/Weather-CLI-App": {
       "stars": 3,
-      "views": 30,
-      "clones": 28,
+      "views": 31,
+      "clones": 29,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -987,7 +988,8 @@
       "collaborators": [
          "Anuja Rahul Gunasinghe",
          "Achintha Ekanayake",
-         "Keshawa_Udana"
+         "Keshawa_Udana",
+         null
       ],
       "stargazers": [],
       "content": [
@@ -1002,7 +1004,8 @@
       "collaborators": [
          "Anuja Rahul Gunasinghe",
          "Achintha Ekanayake",
-         "Keshawa_Udana"
+         "Keshawa_Udana",
+         null
       ],
       "stargazers": [],
       "content": [
@@ -1014,12 +1017,13 @@
    },
    "HeliozIT/ModdeMLmodelv1": {
       "stars": 0,
-      "views": 55,
+      "views": 56,
       "clones": 5,
       "collaborators": [
          "Anuja Rahul Gunasinghe",
          "Achintha Ekanayake",
-         "Keshawa_Udana"
+         "Keshawa_Udana",
+         null
       ],
       "stargazers": [],
       "content": [
@@ -1029,12 +1033,13 @@
    },
    "HeliozIT/signupmodde": {
       "stars": 0,
-      "views": 26,
-      "clones": 14,
+      "views": 28,
+      "clones": 15,
       "collaborators": [
          "Anuja Rahul Gunasinghe",
          "Achintha Ekanayake",
-         "Keshawa_Udana"
+         "Keshawa_Udana",
+         null
       ],
       "stargazers": [],
       "content": [
