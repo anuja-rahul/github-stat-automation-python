@@ -2,7 +2,7 @@
    "anuja-rahul/anuja-rahul": {
       "stars": 2,
       "views": 1,
-      "clones": 14,
+      "clones": 13,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -20,7 +20,7 @@
    },
    "anuja-rahul/apple-website": {
       "stars": 2,
-      "views": 3,
+      "views": 2,
       "clones": 2,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
@@ -396,7 +396,7 @@
    "anuja-rahul/open-source-practice": {
       "stars": 0,
       "views": 0,
-      "clones": 0,
+      "clones": 1,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -649,8 +649,8 @@
    },
    "anuja-rahul/python-fastAPI": {
       "stars": 0,
-      "views": 46,
-      "clones": 27,
+      "views": 52,
+      "clones": 30,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -870,7 +870,7 @@
    },
    "anuja-rahul/Weather-CLI-App": {
       "stars": 3,
-      "views": 24,
+      "views": 1,
       "clones": 30,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
@@ -1029,6 +1029,22 @@
       "content": [
          "README.md",
          "imgprep.py"
+      ]
+   },
+   "HeliozIT/notebook-tops-bottoms-only": {
+      "stars": 0,
+      "views": 7,
+      "clones": 2,
+      "collaborators": [
+         "Anuja Rahul Gunasinghe",
+         "Achintha Ekanayake",
+         "Keshawa_Udana",
+         null
+      ],
+      "stargazers": [],
+      "content": [
+         "README.md",
+         "notebook-tops-bottoms.ipynb"
       ]
    },
    "HeliozIT/signupmodde": {
