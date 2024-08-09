@@ -2,7 +2,7 @@
    "anuja-rahul/anuja-rahul": {
       "stars": 2,
       "views": 1,
-      "clones": 13,
+      "clones": 14,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -20,7 +20,7 @@
    },
    "anuja-rahul/apple-website": {
       "stars": 2,
-      "views": 2,
+      "views": 1,
       "clones": 2,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
@@ -333,14 +333,16 @@
    },
    "anuja-rahul/MODDE-demo-api": {
       "stars": 0,
-      "views": 0,
-      "clones": 1,
+      "views": 6,
+      "clones": 2,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
       "stargazers": [],
       "content": [
          ".idea",
+         "LICENSE",
+         "README.md",
          "main.py",
          "test_main.http"
       ]
@@ -431,7 +433,7 @@
    "anuja-rahul/password-generator-using-Go": {
       "stars": 1,
       "views": 0,
-      "clones": 3,
+      "clones": 2,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -649,8 +651,8 @@
    },
    "anuja-rahul/python-fastAPI": {
       "stars": 0,
-      "views": 52,
-      "clones": 30,
+      "views": 98,
+      "clones": 37,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -661,6 +663,8 @@
          "LICENSE",
          "README.md",
          "__pycache__",
+         "alembic.ini",
+         "alembic",
          "app",
          "requirements.txt"
       ]
@@ -680,7 +684,7 @@
    },
    "anuja-rahul/python_datalogger": {
       "stars": 2,
-      "views": 0,
+      "views": 6,
       "clones": 1,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
@@ -870,8 +874,8 @@
    },
    "anuja-rahul/Weather-CLI-App": {
       "stars": 3,
-      "views": 1,
-      "clones": 30,
+      "views": 8,
+      "clones": 31,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
