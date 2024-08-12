@@ -46,7 +46,7 @@
    "anuja-rahul/booking-app-javaCW": {
       "stars": 2,
       "views": 0,
-      "clones": 1,
+      "clones": 0,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -86,7 +86,7 @@
    "anuja-rahul/demo-app-react": {
       "stars": 1,
       "views": 0,
-      "clones": 1,
+      "clones": 0,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -154,7 +154,7 @@
    "anuja-rahul/github-stat-automation-python": {
       "stars": 3,
       "views": 0,
-      "clones": 33,
+      "clones": 30,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -215,7 +215,7 @@
    "anuja-rahul/intro-to-mojo": {
       "stars": 0,
       "views": 3,
-      "clones": 1,
+      "clones": 0,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -286,7 +286,7 @@
    "anuja-rahul/maxwell-designs": {
       "stars": 0,
       "views": 0,
-      "clones": 1,
+      "clones": 0,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -334,7 +334,7 @@
    "anuja-rahul/MODDE-demo-api": {
       "stars": 0,
       "views": 6,
-      "clones": 2,
+      "clones": 1,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -539,7 +539,7 @@
    "anuja-rahul/portfolio-template": {
       "stars": 0,
       "views": 0,
-      "clones": 1,
+      "clones": 0,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -605,7 +605,7 @@
    "anuja-rahul/progression_tracker_OOP_V2": {
       "stars": 2,
       "views": 0,
-      "clones": 1,
+      "clones": 2,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -651,8 +651,8 @@
    },
    "anuja-rahul/python-fastAPI": {
       "stars": 0,
-      "views": 109,
-      "clones": 41,
+      "views": 113,
+      "clones": 45,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -661,6 +661,7 @@
          ".gitignore",
          ".vscode",
          "LICENSE",
+         "Procfile",
          "README.md",
          "__pycache__",
          "alembic.ini",
@@ -685,7 +686,7 @@
    "anuja-rahul/python_datalogger": {
       "stars": 2,
       "views": 6,
-      "clones": 1,
+      "clones": 0,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -748,7 +749,7 @@
    "anuja-rahul/seat-booking-app": {
       "stars": 2,
       "views": 0,
-      "clones": 2,
+      "clones": 1,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -836,7 +837,7 @@
    "anuja-rahul/spotify-automation-v2": {
       "stars": 2,
       "views": 0,
-      "clones": 0,
+      "clones": 1,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -875,7 +876,7 @@
    "anuja-rahul/Weather-CLI-App": {
       "stars": 3,
       "views": 8,
-      "clones": 29,
+      "clones": 28,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
