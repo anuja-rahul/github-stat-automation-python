@@ -2,7 +2,7 @@
    "anuja-rahul/anuja-rahul": {
       "stars": 2,
       "views": 0,
-      "clones": 10,
+      "clones": 15,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -46,7 +46,7 @@
    "anuja-rahul/booking-app-javaCW": {
       "stars": 2,
       "views": 0,
-      "clones": 0,
+      "clones": 1,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -154,7 +154,7 @@
    "anuja-rahul/github-stat-automation-python": {
       "stars": 3,
       "views": 0,
-      "clones": 28,
+      "clones": 33,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -177,9 +177,9 @@
       ]
    },
    "anuja-rahul/glisten-ai-remade": {
-      "stars": 4,
-      "views": 13,
-      "clones": 1,
+      "stars": 5,
+      "views": 14,
+      "clones": 2,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -187,7 +187,8 @@
          "Monali Suriarachchi",
          "SEBAANA YUSUF SALIM",
          "Reza",
-         "Abdelrahman"
+         "Abdelrahman",
+         "Syed Moinuddin"
       ],
       "content": [
          ".eslintrc.json",
@@ -228,7 +229,7 @@
    },
    "anuja-rahul/iphone-3d-website": {
       "stars": 0,
-      "views": 3,
+      "views": 4,
       "clones": 0,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
@@ -416,7 +417,7 @@
    "anuja-rahul/password-generator-using-Cpp": {
       "stars": 1,
       "views": 0,
-      "clones": 0,
+      "clones": 1,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -470,7 +471,7 @@
    "anuja-rahul/password-generator-using-Python": {
       "stars": 1,
       "views": 0,
-      "clones": 0,
+      "clones": 1,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -631,7 +632,7 @@
    "anuja-rahul/python-datavault": {
       "stars": 2,
       "views": 0,
-      "clones": 1,
+      "clones": 2,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -652,8 +653,8 @@
    },
    "anuja-rahul/python-fastAPI": {
       "stars": 0,
-      "views": 124,
-      "clones": 43,
+      "views": 127,
+      "clones": 45,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -1038,8 +1039,8 @@
    },
    "HeliozIT/ModdeMLmodelv1": {
       "stars": 0,
-      "views": 68,
-      "clones": 5,
+      "views": 25,
+      "clones": 0,
       "collaborators": [
          "Anuja Rahul Gunasinghe",
          "Achintha Ekanayake",
@@ -1070,8 +1071,8 @@
    },
    "HeliozIT/signupmodde": {
       "stars": 0,
-      "views": 39,
-      "clones": 14,
+      "views": 33,
+      "clones": 9,
       "collaborators": [
          "Anuja Rahul Gunasinghe",
          "Achintha Ekanayake",
