@@ -2,7 +2,7 @@
    "anuja-rahul/anuja-rahul": {
       "stars": 2,
       "views": 0,
-      "clones": 17,
+      "clones": 16,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -21,7 +21,7 @@
    "anuja-rahul/apple-website": {
       "stars": 2,
       "views": 1,
-      "clones": 2,
+      "clones": 1,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -152,7 +152,7 @@
       ]
    },
    "anuja-rahul/github-stat-automation-python": {
-      "stars": 3,
+      "stars": 2,
       "views": 0,
       "clones": 31,
       "collaborators": [
@@ -160,8 +160,7 @@
       ],
       "stargazers": [
          "Keshawa_Udana",
-         "Monali Suriarachchi",
-         "Shahrad Elahi"
+         "Monali Suriarachchi"
       ],
       "content": [
          ".gitattributes",
@@ -178,8 +177,8 @@
    },
    "anuja-rahul/glisten-ai-remade": {
       "stars": 5,
-      "views": 13,
-      "clones": 2,
+      "views": 10,
+      "clones": 1,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -216,7 +215,7 @@
    },
    "anuja-rahul/intro-to-mojo": {
       "stars": 0,
-      "views": 3,
+      "views": 0,
       "clones": 0,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
@@ -452,7 +451,7 @@
    },
    "anuja-rahul/password-generator-using-Java": {
       "stars": 1,
-      "views": 12,
+      "views": 0,
       "clones": 3,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
@@ -488,7 +487,7 @@
    "anuja-rahul/portfolio-next": {
       "stars": 0,
       "views": 0,
-      "clones": 1,
+      "clones": 0,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -653,8 +652,8 @@
    },
    "anuja-rahul/python-fastAPI": {
       "stars": 0,
-      "views": 127,
-      "clones": 45,
+      "views": 99,
+      "clones": 35,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -674,7 +673,7 @@
    },
    "anuja-rahul/Python-ImageClassification": {
       "stars": 0,
-      "views": 9,
+      "views": 2,
       "clones": 2,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
@@ -710,7 +709,7 @@
    "anuja-rahul/react-router-v6": {
       "stars": 0,
       "views": 2,
-      "clones": 1,
+      "clones": 0,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -769,15 +768,13 @@
       ]
    },
    "anuja-rahul/shop-nextjs": {
-      "stars": 1,
+      "stars": 0,
       "views": 0,
       "clones": 0,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
-      "stargazers": [
-         "Shahrad Elahi"
-      ],
+      "stargazers": [],
       "content": [
          ".eslintrc.json",
          ".gitignore",
@@ -876,16 +873,15 @@
       ]
    },
    "anuja-rahul/Weather-CLI-App": {
-      "stars": 3,
-      "views": 8,
-      "clones": 30,
+      "stars": 2,
+      "views": 7,
+      "clones": 32,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
       "stargazers": [
          "Keshawa_Udana",
-         "Monali Suriarachchi",
-         "Shahrad Elahi"
+         "Monali Suriarachchi"
       ],
       "content": [
          ".github",
@@ -1039,7 +1035,7 @@
    },
    "HeliozIT/ModdeMLmodelv1": {
       "stars": 0,
-      "views": 13,
+      "views": 12,
       "clones": 0,
       "collaborators": [
          "Anuja Rahul Gunasinghe",
@@ -1071,8 +1067,8 @@
    },
    "HeliozIT/signupmodde": {
       "stars": 0,
-      "views": 18,
-      "clones": 2,
+      "views": 17,
+      "clones": 1,
       "collaborators": [
          "Anuja Rahul Gunasinghe",
          "Achintha Ekanayake",
