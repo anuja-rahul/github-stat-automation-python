@@ -177,7 +177,7 @@
    },
    "anuja-rahul/glisten-ai-remade": {
       "stars": 5,
-      "views": 9,
+      "views": 3,
       "clones": 1,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
@@ -334,8 +334,8 @@
    },
    "anuja-rahul/MODDE-demo-api": {
       "stars": 0,
-      "views": 27,
-      "clones": 8,
+      "views": 36,
+      "clones": 19,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -345,6 +345,8 @@
          ".idea",
          "LICENSE",
          "README.md",
+         "alembic.ini",
+         "alembic",
          "app",
          "requirements.txt",
          "test_main.http"
@@ -676,7 +678,7 @@
    "anuja-rahul/Python-ImageClassification": {
       "stars": 0,
       "views": 0,
-      "clones": 2,
+      "clones": 1,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -1033,6 +1035,29 @@
          "README.md",
          "index.html",
          "package.json"
+      ]
+   },
+   "HeliozIT/MODDE-demo-api": {
+      "stars": 0,
+      "views": 3,
+      "clones": 0,
+      "collaborators": [
+         "Anuja Rahul Gunasinghe",
+         "Achintha Ekanayake",
+         "Keshawa_Udana",
+         null
+      ],
+      "stargazers": [],
+      "content": [
+         ".gitignore",
+         ".idea",
+         "LICENSE",
+         "README.md",
+         "alembic.ini",
+         "alembic",
+         "app",
+         "requirements.txt",
+         "test_main.http"
       ]
    },
    "HeliozIT/ModdeMLmodelv1": {
