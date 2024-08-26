@@ -2,7 +2,7 @@
    "anuja-rahul/anuja-rahul": {
       "stars": 2,
       "views": 0,
-      "clones": 17,
+      "clones": 19,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -151,9 +151,31 @@
          "tsconfig.json"
       ]
    },
+   "anuja-rahul/github-api": {
+      "stars": 0,
+      "views": 3,
+      "clones": 1,
+      "collaborators": [
+         "Anuja Rahul Gunasinghe"
+      ],
+      "stargazers": [],
+      "content": [
+         ".eslintrc.json",
+         ".gitignore",
+         "README.md",
+         "next.config.mjs",
+         "package-lock.json",
+         "package.json",
+         "postcss.config.mjs",
+         "public",
+         "src",
+         "tailwind.config.ts",
+         "tsconfig.json"
+      ]
+   },
    "anuja-rahul/github-stat-automation-python": {
       "stars": 2,
-      "views": 0,
+      "views": 1,
       "clones": 34,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
@@ -334,8 +356,8 @@
    },
    "anuja-rahul/MODDE-demo-api": {
       "stars": 0,
-      "views": 42,
-      "clones": 35,
+      "views": 49,
+      "clones": 37,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -610,7 +632,7 @@
    "anuja-rahul/progression_tracker_OOP_V2": {
       "stars": 2,
       "views": 0,
-      "clones": 1,
+      "clones": 0,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -656,8 +678,8 @@
    },
    "anuja-rahul/python-fastAPI": {
       "stars": 0,
-      "views": 31,
-      "clones": 8,
+      "views": 27,
+      "clones": 4,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -840,7 +862,7 @@
    "anuja-rahul/spotify-automation-v2": {
       "stars": 2,
       "views": 0,
-      "clones": 2,
+      "clones": 1,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -879,7 +901,7 @@
    "anuja-rahul/Weather-CLI-App": {
       "stars": 2,
       "views": 0,
-      "clones": 35,
+      "clones": 34,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -1039,7 +1061,7 @@
    },
    "HeliozIT/MODDE-demo-api": {
       "stars": 0,
-      "views": 16,
+      "views": 22,
       "clones": 4,
       "collaborators": [
          "Anuja Rahul Gunasinghe",
