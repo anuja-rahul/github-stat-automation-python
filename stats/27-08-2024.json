@@ -2,7 +2,7 @@
    "anuja-rahul/anuja-rahul": {
       "stars": 2,
       "views": 0,
-      "clones": 19,
+      "clones": 18,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -109,7 +109,7 @@
    "anuja-rahul/demo-portfolio.github.io": {
       "stars": 1,
       "views": 0,
-      "clones": 2,
+      "clones": 0,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -154,7 +154,7 @@
    "anuja-rahul/github-api": {
       "stars": 0,
       "views": 3,
-      "clones": 1,
+      "clones": 5,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -162,6 +162,7 @@
       "content": [
          ".eslintrc.json",
          ".gitignore",
+         ".hintrc",
          "README.md",
          "next.config.mjs",
          "package-lock.json",
@@ -176,7 +177,7 @@
    "anuja-rahul/github-stat-automation-python": {
       "stars": 2,
       "views": 1,
-      "clones": 34,
+      "clones": 37,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -272,7 +273,7 @@
    "anuja-rahul/login-ui": {
       "stars": 2,
       "views": 0,
-      "clones": 0,
+      "clones": 3,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -293,7 +294,7 @@
    "anuja-rahul/markdown-everything": {
       "stars": 1,
       "views": 0,
-      "clones": 1,
+      "clones": 0,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -356,7 +357,7 @@
    },
    "anuja-rahul/MODDE-demo-api": {
       "stars": 0,
-      "views": 49,
+      "views": 51,
       "clones": 37,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
@@ -460,7 +461,7 @@
    "anuja-rahul/password-generator-using-Go": {
       "stars": 1,
       "views": 0,
-      "clones": 2,
+      "clones": 0,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -478,7 +479,7 @@
    "anuja-rahul/password-generator-using-Java": {
       "stars": 1,
       "views": 0,
-      "clones": 2,
+      "clones": 1,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -678,7 +679,7 @@
    },
    "anuja-rahul/python-fastAPI": {
       "stars": 0,
-      "views": 27,
+      "views": 18,
       "clones": 4,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
@@ -713,7 +714,7 @@
    "anuja-rahul/python_datalogger": {
       "stars": 2,
       "views": 0,
-      "clones": 1,
+      "clones": 0,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -901,7 +902,7 @@
    "anuja-rahul/Weather-CLI-App": {
       "stars": 2,
       "views": 0,
-      "clones": 34,
+      "clones": 33,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -1114,9 +1115,37 @@
          "notebook-tops-bottoms.ipynb"
       ]
    },
+   "HeliozIT/retaildashboardv1": {
+      "stars": 0,
+      "views": 7,
+      "clones": 9,
+      "collaborators": [
+         "Anuja Rahul Gunasinghe",
+         "Achintha Ekanayake",
+         "Keshawa_Udana",
+         null
+      ],
+      "stargazers": [],
+      "content": [
+         ".eslintrc.json",
+         ".gitignore",
+         "README.md",
+         "app",
+         "backend",
+         "next.config.mjs",
+         "package-lock.json",
+         "package.json",
+         "postcss.config.mjs",
+         "public",
+         "requirements.txt",
+         "tailwind.config.ts",
+         "tsconfig.json",
+         "venv"
+      ]
+   },
    "HeliozIT/signupmodde": {
       "stars": 0,
-      "views": 13,
+      "views": 14,
       "clones": 0,
       "collaborators": [
          "Anuja Rahul Gunasinghe",
