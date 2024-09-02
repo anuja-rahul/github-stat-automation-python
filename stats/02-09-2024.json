@@ -2,7 +2,7 @@
    "anuja-rahul/anuja-rahul": {
       "stars": 2,
       "views": 0,
-      "clones": 20,
+      "clones": 18,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -20,8 +20,8 @@
    },
    "anuja-rahul/apple-website": {
       "stars": 2,
-      "views": 5,
-      "clones": 0,
+      "views": 7,
+      "clones": 1,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -177,7 +177,7 @@
    "anuja-rahul/github-stat-automation-python": {
       "stars": 2,
       "views": 1,
-      "clones": 39,
+      "clones": 38,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -357,8 +357,8 @@
    },
    "anuja-rahul/MODDE-demo-api": {
       "stars": 0,
-      "views": 36,
-      "clones": 28,
+      "views": 27,
+      "clones": 19,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -777,7 +777,7 @@
    "anuja-rahul/seat-booking-app": {
       "stars": 2,
       "views": 0,
-      "clones": 1,
+      "clones": 2,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -901,8 +901,8 @@
    },
    "anuja-rahul/travelsense-backend": {
       "stars": 0,
-      "views": 33,
-      "clones": 15,
+      "views": 68,
+      "clones": 28,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -921,7 +921,7 @@
    "anuja-rahul/Weather-CLI-App": {
       "stars": 2,
       "views": 5,
-      "clones": 29,
+      "clones": 30,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -1081,7 +1081,7 @@
    },
    "HeliozIT/MODDE-demo-api": {
       "stars": 0,
-      "views": 22,
+      "views": 19,
       "clones": 4,
       "collaborators": [
          "Anuja Rahul Gunasinghe",
@@ -1136,7 +1136,7 @@
    },
    "HeliozIT/retaildashboardv1": {
       "stars": 0,
-      "views": 5,
+      "views": 4,
       "clones": 0,
       "collaborators": [
          "Anuja Rahul Gunasinghe",
@@ -1187,9 +1187,36 @@
          "tsconfig.json"
       ]
    },
+   "TravelSenseRC/front-end-nimesha": {
+      "stars": 0,
+      "views": 12,
+      "clones": 6,
+      "collaborators": [
+         "Anuja Rahul Gunasinghe",
+         "Keshawa_Udana",
+         "Kemsara Hasaka Pathirana",
+         null
+      ],
+      "stargazers": [],
+      "content": [
+         ".gitignore",
+         "GetStarted.jsx",
+         "GetStarted02.jsx",
+         "README.md",
+         "SplashScreen.jsx",
+         "_layout.jsx",
+         "app.json",
+         "babel.config.js",
+         "expo-env.d.ts",
+         "index.jsx",
+         "package-lock.json",
+         "package.json",
+         "tsconfig.json"
+      ]
+   },
    "TravelSenseRC/Front-end-Resources": {
       "stars": 0,
-      "views": 28,
+      "views": 37,
       "clones": 4,
       "collaborators": [
          "Anuja Rahul Gunasinghe",
@@ -1204,8 +1231,8 @@
    },
    "TravelSenseRC/travelsense-backend": {
       "stars": 0,
-      "views": 120,
-      "clones": 12,
+      "views": 204,
+      "clones": 20,
       "collaborators": [
          "Anuja Rahul Gunasinghe",
          "Keshawa_Udana",
