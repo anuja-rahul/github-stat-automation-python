@@ -1,7 +1,7 @@
 {
    "anuja-rahul/anuja-rahul": {
       "stars": 2,
-      "views": 0,
+      "views": 4,
       "clones": 18,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
@@ -127,7 +127,7 @@
    "anuja-rahul/esiit-nextjs": {
       "stars": 0,
       "views": 0,
-      "clones": 0,
+      "clones": 1,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -154,7 +154,7 @@
    "anuja-rahul/github-api": {
       "stars": 0,
       "views": 4,
-      "clones": 5,
+      "clones": 6,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -177,7 +177,7 @@
    "anuja-rahul/github-stat-automation-python": {
       "stars": 2,
       "views": 1,
-      "clones": 38,
+      "clones": 39,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -199,9 +199,9 @@
       ]
    },
    "anuja-rahul/glisten-ai-remade": {
-      "stars": 5,
+      "stars": 4,
       "views": 6,
-      "clones": 5,
+      "clones": 4,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -209,8 +209,7 @@
          "Monali Suriarachchi",
          "SEBAANA YUSUF SALIM",
          "Reza",
-         "Abdelrahman",
-         "Syed Moinuddin"
+         "Abdelrahman"
       ],
       "content": [
          ".eslintrc.json",
@@ -358,7 +357,7 @@
    "anuja-rahul/MODDE-demo-api": {
       "stars": 0,
       "views": 27,
-      "clones": 19,
+      "clones": 16,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -680,7 +679,7 @@
    "anuja-rahul/python-fastAPI": {
       "stars": 0,
       "views": 0,
-      "clones": 1,
+      "clones": 2,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -901,8 +900,8 @@
    },
    "anuja-rahul/travelsense-backend": {
       "stars": 0,
-      "views": 68,
-      "clones": 28,
+      "views": 82,
+      "clones": 29,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -921,7 +920,7 @@
    "anuja-rahul/Weather-CLI-App": {
       "stars": 2,
       "views": 5,
-      "clones": 30,
+      "clones": 31,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -1033,7 +1032,7 @@
    "HeliozIT/.github": {
       "stars": 0,
       "views": 0,
-      "clones": 0,
+      "clones": 1,
       "collaborators": [
          "Anuja Rahul Gunasinghe",
          "Achintha Ekanayake",
@@ -1121,7 +1120,7 @@
    "HeliozIT/notebook-tops-bottoms-only": {
       "stars": 0,
       "views": 1,
-      "clones": 0,
+      "clones": 1,
       "collaborators": [
          "Anuja Rahul Gunasinghe",
          "Achintha Ekanayake",
@@ -1189,8 +1188,8 @@
    },
    "TravelSenseRC/front-end-nimesha": {
       "stars": 0,
-      "views": 12,
-      "clones": 6,
+      "views": 50,
+      "clones": 7,
       "collaborators": [
          "Anuja Rahul Gunasinghe",
          "Keshawa_Udana",
@@ -1217,7 +1216,7 @@
    "TravelSenseRC/Front-end-Resources": {
       "stars": 0,
       "views": 37,
-      "clones": 4,
+      "clones": 5,
       "collaborators": [
          "Anuja Rahul Gunasinghe",
          "Keshawa_Udana",
@@ -1231,8 +1230,8 @@
    },
    "TravelSenseRC/travelsense-backend": {
       "stars": 0,
-      "views": 204,
-      "clones": 20,
+      "views": 216,
+      "clones": 24,
       "collaborators": [
          "Anuja Rahul Gunasinghe",
          "Keshawa_Udana",
