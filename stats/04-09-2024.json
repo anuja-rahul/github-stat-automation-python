@@ -2,7 +2,7 @@
    "anuja-rahul/anuja-rahul": {
       "stars": 2,
       "views": 4,
-      "clones": 18,
+      "clones": 16,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -65,7 +65,7 @@
    },
    "anuja-rahul/css-animations": {
       "stars": 2,
-      "views": 3,
+      "views": 0,
       "clones": 0,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
@@ -177,7 +177,7 @@
    "anuja-rahul/github-stat-automation-python": {
       "stars": 2,
       "views": 1,
-      "clones": 39,
+      "clones": 38,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -356,8 +356,8 @@
    },
    "anuja-rahul/MODDE-demo-api": {
       "stars": 0,
-      "views": 27,
-      "clones": 16,
+      "views": 28,
+      "clones": 10,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -900,8 +900,8 @@
    },
    "anuja-rahul/travelsense-backend": {
       "stars": 0,
-      "views": 82,
-      "clones": 29,
+      "views": 93,
+      "clones": 34,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -920,7 +920,7 @@
    "anuja-rahul/Weather-CLI-App": {
       "stars": 2,
       "views": 5,
-      "clones": 31,
+      "clones": 32,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -1080,7 +1080,7 @@
    },
    "HeliozIT/MODDE-demo-api": {
       "stars": 0,
-      "views": 19,
+      "views": 14,
       "clones": 4,
       "collaborators": [
          "Anuja Rahul Gunasinghe",
@@ -1188,13 +1188,15 @@
    },
    "TravelSenseRC/front-end-nimesha": {
       "stars": 0,
-      "views": 50,
+      "views": 99,
       "clones": 7,
       "collaborators": [
          "Anuja Rahul Gunasinghe",
          "Keshawa_Udana",
+         "Minindu Himal",
          "Kemsara Hasaka Pathirana",
-         null
+         null,
+         "Milan Ranaweera"
       ],
       "stargazers": [],
       "content": [
@@ -1215,13 +1217,15 @@
    },
    "TravelSenseRC/Front-end-Resources": {
       "stars": 0,
-      "views": 37,
+      "views": 39,
       "clones": 5,
       "collaborators": [
          "Anuja Rahul Gunasinghe",
          "Keshawa_Udana",
+         "Minindu Himal",
          "Kemsara Hasaka Pathirana",
-         null
+         null,
+         "Milan Ranaweera"
       ],
       "stargazers": [],
       "content": [
@@ -1230,13 +1234,15 @@
    },
    "TravelSenseRC/travelsense-backend": {
       "stars": 0,
-      "views": 216,
-      "clones": 24,
+      "views": 426,
+      "clones": 25,
       "collaborators": [
          "Anuja Rahul Gunasinghe",
          "Keshawa_Udana",
+         "Minindu Himal",
          "Kemsara Hasaka Pathirana",
-         null
+         null,
+         "Milan Ranaweera"
       ],
       "stargazers": [],
       "content": [
