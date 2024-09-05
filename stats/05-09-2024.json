@@ -177,7 +177,7 @@
    "anuja-rahul/github-stat-automation-python": {
       "stars": 2,
       "views": 1,
-      "clones": 38,
+      "clones": 35,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -356,8 +356,8 @@
    },
    "anuja-rahul/MODDE-demo-api": {
       "stars": 0,
-      "views": 28,
-      "clones": 10,
+      "views": 25,
+      "clones": 6,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -657,7 +657,7 @@
    "anuja-rahul/python-datavault": {
       "stars": 2,
       "views": 0,
-      "clones": 1,
+      "clones": 2,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -900,8 +900,8 @@
    },
    "anuja-rahul/travelsense-backend": {
       "stars": 0,
-      "views": 93,
-      "clones": 34,
+      "views": 112,
+      "clones": 35,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -919,7 +919,7 @@
    },
    "anuja-rahul/Weather-CLI-App": {
       "stars": 2,
-      "views": 5,
+      "views": 6,
       "clones": 32,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
@@ -964,7 +964,7 @@
    },
    "anuja-rahul/web-dev-water-project": {
       "stars": 2,
-      "views": 0,
+      "views": 4,
       "clones": 1,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
@@ -1080,8 +1080,8 @@
    },
    "HeliozIT/MODDE-demo-api": {
       "stars": 0,
-      "views": 14,
-      "clones": 4,
+      "views": 10,
+      "clones": 3,
       "collaborators": [
          "Anuja Rahul Gunasinghe",
          "Achintha Ekanayake",
@@ -1119,7 +1119,7 @@
    },
    "HeliozIT/notebook-tops-bottoms-only": {
       "stars": 0,
-      "views": 1,
+      "views": 0,
       "clones": 1,
       "collaborators": [
          "Anuja Rahul Gunasinghe",
@@ -1188,9 +1188,10 @@
    },
    "TravelSenseRC/front-end-nimesha": {
       "stars": 0,
-      "views": 99,
+      "views": 114,
       "clones": 7,
       "collaborators": [
+         "Disandu Sanhida Jayawardhane",
          "Anuja Rahul Gunasinghe",
          "Keshawa_Udana",
          "Minindu Himal",
@@ -1217,9 +1218,10 @@
    },
    "TravelSenseRC/Front-end-Resources": {
       "stars": 0,
-      "views": 39,
+      "views": 42,
       "clones": 5,
       "collaborators": [
+         "Disandu Sanhida Jayawardhane",
          "Anuja Rahul Gunasinghe",
          "Keshawa_Udana",
          "Minindu Himal",
@@ -1234,9 +1236,10 @@
    },
    "TravelSenseRC/travelsense-backend": {
       "stars": 0,
-      "views": 426,
-      "clones": 25,
+      "views": 476,
+      "clones": 33,
       "collaborators": [
+         "Disandu Sanhida Jayawardhane",
          "Anuja Rahul Gunasinghe",
          "Keshawa_Udana",
          "Minindu Himal",
@@ -1254,6 +1257,65 @@
          "alembic",
          "app",
          "requirements.txt"
+      ]
+   },
+   "TravelSenseRC/TravelSense-Home-Kemsara": {
+      "stars": 0,
+      "views": 63,
+      "clones": 9,
+      "collaborators": [
+         "Disandu Sanhida Jayawardhane",
+         "Anuja Rahul Gunasinghe",
+         "Keshawa_Udana",
+         "Minindu Himal",
+         "Kemsara Hasaka Pathirana",
+         null,
+         "Milan Ranaweera"
+      ],
+      "stargazers": [],
+      "content": [
+         ".gitignore",
+         "HomeScreenMain.jsx",
+         "MyTabs.js",
+         "README.md",
+         "SearchBar.jsx",
+         "app.json",
+         "assets",
+         "babel.config.js",
+         "components",
+         "constants",
+         "devices.json",
+         "expo-env.d.ts",
+         "hooks",
+         "index.jsx",
+         "layout.jsx",
+         "package-lock.json",
+         "package.json",
+         "router.d.ts",
+         "scripts",
+         "tsconfig.json"
+      ]
+   },
+   "TravelSenseRC/TravelSenseKesh": {
+      "stars": 0,
+      "views": 60,
+      "clones": 18,
+      "collaborators": [
+         "Disandu Sanhida Jayawardhane",
+         "Anuja Rahul Gunasinghe",
+         "Keshawa_Udana",
+         "Minindu Himal",
+         "Kemsara Hasaka Pathirana",
+         null,
+         "Milan Ranaweera"
+      ],
+      "stargazers": [],
+      "content": [
+         ".gitignore",
+         "README.md",
+         "TravelSenseVisa",
+         "package-lock.json",
+         "package.json"
       ]
    }
 }
