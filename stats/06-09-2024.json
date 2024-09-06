@@ -85,7 +85,7 @@
    },
    "anuja-rahul/demo-app-react": {
       "stars": 1,
-      "views": 0,
+      "views": 1,
       "clones": 2,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
@@ -176,7 +176,7 @@
    },
    "anuja-rahul/github-stat-automation-python": {
       "stars": 2,
-      "views": 1,
+      "views": 2,
       "clones": 35,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
@@ -357,7 +357,7 @@
    "anuja-rahul/MODDE-demo-api": {
       "stars": 0,
       "views": 25,
-      "clones": 6,
+      "clones": 7,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -900,8 +900,8 @@
    },
    "anuja-rahul/travelsense-backend": {
       "stars": 0,
-      "views": 112,
-      "clones": 35,
+      "views": 159,
+      "clones": 39,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -1188,8 +1188,8 @@
    },
    "TravelSenseRC/front-end-nimesha": {
       "stars": 0,
-      "views": 114,
-      "clones": 7,
+      "views": 21,
+      "clones": 4,
       "collaborators": [
          "Disandu Sanhida Jayawardhane",
          "Anuja Rahul Gunasinghe",
@@ -1201,16 +1201,16 @@
       ],
       "stargazers": [],
       "content": [
+         ".expo",
          ".gitignore",
-         "GetStarted.jsx",
-         "GetStarted02.jsx",
          "README.md",
-         "SplashScreen.jsx",
-         "_layout.jsx",
          "app.json",
+         "app",
+         "assets",
          "babel.config.js",
+         "constants",
          "expo-env.d.ts",
-         "index.jsx",
+         "hooks",
          "package-lock.json",
          "package.json",
          "tsconfig.json"
@@ -1218,8 +1218,26 @@
    },
    "TravelSenseRC/Front-end-Resources": {
       "stars": 0,
-      "views": 42,
+      "views": 44,
       "clones": 5,
+      "collaborators": [
+         "Disandu Sanhida Jayawardhane",
+         "Anuja Rahul Gunasinghe",
+         "Keshawa_Udana",
+         "Minindu Himal",
+         "Kemsara Hasaka Pathirana",
+         null,
+         "Milan Ranaweera"
+      ],
+      "stargazers": [],
+      "content": [
+         "README.md"
+      ]
+   },
+   "TravelSenseRC/FrontEnd": {
+      "stars": 0,
+      "views": 2,
+      "clones": 3,
       "collaborators": [
          "Disandu Sanhida Jayawardhane",
          "Anuja Rahul Gunasinghe",
@@ -1236,8 +1254,8 @@
    },
    "TravelSenseRC/travelsense-backend": {
       "stars": 0,
-      "views": 476,
-      "clones": 33,
+      "views": 544,
+      "clones": 46,
       "collaborators": [
          "Disandu Sanhida Jayawardhane",
          "Anuja Rahul Gunasinghe",
@@ -1259,10 +1277,10 @@
          "requirements.txt"
       ]
    },
-   "TravelSenseRC/TravelSense-Home-Kemsara": {
+   "TravelSenseRC/TravelSense-FrontEnd-Kemsara": {
       "stars": 0,
-      "views": 63,
-      "clones": 9,
+      "views": 101,
+      "clones": 11,
       "collaborators": [
          "Disandu Sanhida Jayawardhane",
          "Anuja Rahul Gunasinghe",
@@ -1276,6 +1294,10 @@
       "content": [
          ".gitignore",
          "HomeScreenMain.jsx",
+         "ItineraryGenerator1.jsx",
+         "ItineraryGenerator2.jsx",
+         "ItineraryGenerator3.jsx",
+         "ItineraryStackNav.js",
          "MyTabs.js",
          "README.md",
          "SearchBar.jsx",
@@ -1298,8 +1320,8 @@
    },
    "TravelSenseRC/TravelSenseKesh": {
       "stars": 0,
-      "views": 60,
-      "clones": 18,
+      "views": 103,
+      "clones": 20,
       "collaborators": [
          "Disandu Sanhida Jayawardhane",
          "Anuja Rahul Gunasinghe",
