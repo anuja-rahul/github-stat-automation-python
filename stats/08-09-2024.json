@@ -2,7 +2,7 @@
    "anuja-rahul/anuja-rahul": {
       "stars": 2,
       "views": 4,
-      "clones": 16,
+      "clones": 14,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -20,7 +20,7 @@
    },
    "anuja-rahul/apple-website": {
       "stars": 2,
-      "views": 7,
+      "views": 13,
       "clones": 1,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
@@ -177,7 +177,7 @@
    "anuja-rahul/github-stat-automation-python": {
       "stars": 2,
       "views": 2,
-      "clones": 35,
+      "clones": 33,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -200,7 +200,7 @@
    },
    "anuja-rahul/glisten-ai-remade": {
       "stars": 4,
-      "views": 6,
+      "views": 3,
       "clones": 4,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
@@ -333,7 +333,7 @@
    },
    "anuja-rahul/modde": {
       "stars": 0,
-      "views": 1,
+      "views": 0,
       "clones": 1,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
@@ -356,8 +356,8 @@
    },
    "anuja-rahul/MODDE-demo-api": {
       "stars": 0,
-      "views": 25,
-      "clones": 7,
+      "views": 22,
+      "clones": 4,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -398,7 +398,7 @@
    },
    "anuja-rahul/novaa-demo": {
       "stars": 0,
-      "views": 2,
+      "views": 0,
       "clones": 0,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
@@ -919,7 +919,7 @@
    },
    "anuja-rahul/Weather-CLI-App": {
       "stars": 2,
-      "views": 6,
+      "views": 7,
       "clones": 32,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
@@ -1080,8 +1080,8 @@
    },
    "HeliozIT/MODDE-demo-api": {
       "stars": 0,
-      "views": 10,
-      "clones": 3,
+      "views": 6,
+      "clones": 0,
       "collaborators": [
          "Anuja Rahul Gunasinghe",
          "Achintha Ekanayake",
@@ -1188,8 +1188,8 @@
    },
    "TravelSenseRC/front-end-nimesha": {
       "stars": 0,
-      "views": 21,
-      "clones": 4,
+      "views": 33,
+      "clones": 7,
       "collaborators": [
          "Disandu Sanhida Jayawardhane",
          "Anuja Rahul Gunasinghe",
@@ -1218,7 +1218,7 @@
    },
    "TravelSenseRC/Front-end-Resources": {
       "stars": 0,
-      "views": 44,
+      "views": 50,
       "clones": 5,
       "collaborators": [
          "Disandu Sanhida Jayawardhane",
@@ -1236,7 +1236,7 @@
    },
    "TravelSenseRC/FrontEnd": {
       "stars": 0,
-      "views": 2,
+      "views": 3,
       "clones": 3,
       "collaborators": [
          "Disandu Sanhida Jayawardhane",
@@ -1254,7 +1254,7 @@
    },
    "TravelSenseRC/travelsense-backend": {
       "stars": 0,
-      "views": 544,
+      "views": 575,
       "clones": 46,
       "collaborators": [
          "Disandu Sanhida Jayawardhane",
@@ -1279,7 +1279,7 @@
    },
    "TravelSenseRC/TravelSense-FrontEnd-Kemsara": {
       "stars": 0,
-      "views": 101,
+      "views": 119,
       "clones": 11,
       "collaborators": [
          "Disandu Sanhida Jayawardhane",
@@ -1318,9 +1318,34 @@
          "tsconfig.json"
       ]
    },
+   "TravelSenseRC/TravelSenseFinalVersion": {
+      "stars": 0,
+      "views": 8,
+      "clones": 5,
+      "collaborators": [
+         "Disandu Sanhida Jayawardhane",
+         "Anuja Rahul Gunasinghe",
+         "Keshawa_Udana",
+         "Minindu Himal",
+         "Kemsara Hasaka Pathirana",
+         null,
+         "Milan Ranaweera"
+      ],
+      "stargazers": [],
+      "content": [
+         "README.md",
+         "app",
+         "assets",
+         "components",
+         "constants",
+         "devices.json",
+         "hooks",
+         "scripts"
+      ]
+   },
    "TravelSenseRC/TravelSenseKesh": {
       "stars": 0,
-      "views": 103,
+      "views": 123,
       "clones": 20,
       "collaborators": [
          "Disandu Sanhida Jayawardhane",
@@ -1338,6 +1363,33 @@
          "TravelSenseVisa",
          "package-lock.json",
          "package.json"
+      ]
+   },
+   "TravelSenseRC/Zybertron_TravelSense": {
+      "stars": 0,
+      "views": 31,
+      "clones": 6,
+      "collaborators": [
+         "Disandu Sanhida Jayawardhane",
+         "Anuja Rahul Gunasinghe",
+         "Keshawa_Udana",
+         "Minindu Himal",
+         "Kemsara Hasaka Pathirana",
+         null,
+         "Milan Ranaweera"
+      ],
+      "stargazers": [],
+      "content": [
+         "README.md",
+         "app.json",
+         "app",
+         "assets",
+         "components",
+         "constants",
+         "devices.json",
+         "hooks",
+         "scripts",
+         "travelsense-backend-main"
       ]
    }
 }
