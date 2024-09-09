@@ -153,8 +153,8 @@
    },
    "anuja-rahul/github-api": {
       "stars": 0,
-      "views": 4,
-      "clones": 6,
+      "views": 1,
+      "clones": 5,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -177,7 +177,7 @@
    "anuja-rahul/github-stat-automation-python": {
       "stars": 2,
       "views": 2,
-      "clones": 33,
+      "clones": 31,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -356,8 +356,8 @@
    },
    "anuja-rahul/MODDE-demo-api": {
       "stars": 0,
-      "views": 22,
-      "clones": 4,
+      "views": 15,
+      "clones": 2,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -900,8 +900,8 @@
    },
    "anuja-rahul/travelsense-backend": {
       "stars": 0,
-      "views": 159,
-      "clones": 39,
+      "views": 167,
+      "clones": 44,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -914,12 +914,14 @@
          "alembic.ini",
          "alembic",
          "app",
+         "gunicorn.service",
+         "nginx",
          "requirements.txt"
       ]
    },
    "anuja-rahul/Weather-CLI-App": {
       "stars": 2,
-      "views": 7,
+      "views": 15,
       "clones": 32,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
@@ -1080,7 +1082,7 @@
    },
    "HeliozIT/MODDE-demo-api": {
       "stars": 0,
-      "views": 6,
+      "views": 0,
       "clones": 0,
       "collaborators": [
          "Anuja Rahul Gunasinghe",
@@ -1218,7 +1220,7 @@
    },
    "TravelSenseRC/Front-end-Resources": {
       "stars": 0,
-      "views": 50,
+      "views": 52,
       "clones": 5,
       "collaborators": [
          "Disandu Sanhida Jayawardhane",
@@ -1254,8 +1256,8 @@
    },
    "TravelSenseRC/travelsense-backend": {
       "stars": 0,
-      "views": 575,
-      "clones": 46,
+      "views": 582,
+      "clones": 47,
       "collaborators": [
          "Disandu Sanhida Jayawardhane",
          "Anuja Rahul Gunasinghe",
@@ -1274,6 +1276,8 @@
          "alembic.ini",
          "alembic",
          "app",
+         "gunicorn.service",
+         "nginx",
          "requirements.txt"
       ]
    },
@@ -1320,7 +1324,7 @@
    },
    "TravelSenseRC/TravelSenseFinalVersion": {
       "stars": 0,
-      "views": 8,
+      "views": 9,
       "clones": 5,
       "collaborators": [
          "Disandu Sanhida Jayawardhane",
