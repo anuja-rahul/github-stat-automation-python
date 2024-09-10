@@ -2,7 +2,7 @@
    "anuja-rahul/anuja-rahul": {
       "stars": 2,
       "views": 4,
-      "clones": 14,
+      "clones": 16,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -153,8 +153,8 @@
    },
    "anuja-rahul/github-api": {
       "stars": 0,
-      "views": 1,
-      "clones": 5,
+      "views": 0,
+      "clones": 1,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -176,8 +176,8 @@
    },
    "anuja-rahul/github-stat-automation-python": {
       "stars": 2,
-      "views": 2,
-      "clones": 31,
+      "views": 5,
+      "clones": 32,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -269,10 +269,26 @@
          "vite.config.js"
       ]
    },
+   "anuja-rahul/Leetcode-Hackerrank-Codewars": {
+      "stars": 0,
+      "views": 108,
+      "clones": 30,
+      "collaborators": [
+         "Anuja Rahul Gunasinghe"
+      ],
+      "stargazers": [],
+      "content": [
+         "1.Project-Euler",
+         "5.Randoms",
+         "LICENSE",
+         "README.md",
+         "requirements.txt"
+      ]
+   },
    "anuja-rahul/login-ui": {
       "stars": 2,
       "views": 0,
-      "clones": 6,
+      "clones": 3,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -356,7 +372,7 @@
    },
    "anuja-rahul/MODDE-demo-api": {
       "stars": 0,
-      "views": 15,
+      "views": 13,
       "clones": 2,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
@@ -657,7 +673,7 @@
    "anuja-rahul/python-datavault": {
       "stars": 2,
       "views": 0,
-      "clones": 2,
+      "clones": 1,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -824,7 +840,7 @@
    "anuja-rahul/socket-file-transfer": {
       "stars": 2,
       "views": 0,
-      "clones": 2,
+      "clones": 0,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -900,7 +916,7 @@
    },
    "anuja-rahul/travelsense-backend": {
       "stars": 0,
-      "views": 167,
+      "views": 180,
       "clones": 44,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
@@ -921,8 +937,8 @@
    },
    "anuja-rahul/Weather-CLI-App": {
       "stars": 2,
-      "views": 15,
-      "clones": 32,
+      "views": 18,
+      "clones": 33,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -1137,7 +1153,7 @@
    },
    "HeliozIT/retaildashboardv1": {
       "stars": 0,
-      "views": 4,
+      "views": 2,
       "clones": 0,
       "collaborators": [
          "Anuja Rahul Gunasinghe",
@@ -1165,7 +1181,7 @@
    },
    "HeliozIT/signupmodde": {
       "stars": 0,
-      "views": 1,
+      "views": 0,
       "clones": 0,
       "collaborators": [
          "Anuja Rahul Gunasinghe",
@@ -1256,8 +1272,8 @@
    },
    "TravelSenseRC/travelsense-backend": {
       "stars": 0,
-      "views": 582,
-      "clones": 47,
+      "views": 588,
+      "clones": 48,
       "collaborators": [
          "Disandu Sanhida Jayawardhane",
          "Anuja Rahul Gunasinghe",
@@ -1283,7 +1299,7 @@
    },
    "TravelSenseRC/TravelSense-FrontEnd-Kemsara": {
       "stars": 0,
-      "views": 119,
+      "views": 120,
       "clones": 11,
       "collaborators": [
          "Disandu Sanhida Jayawardhane",
@@ -1369,9 +1385,32 @@
          "package.json"
       ]
    },
+   "TravelSenseRC/TravelSense_Continuation": {
+      "stars": 0,
+      "views": 39,
+      "clones": 4,
+      "collaborators": [
+         "Disandu Sanhida Jayawardhane",
+         "Anuja Rahul Gunasinghe",
+         "Keshawa_Udana",
+         "Minindu Himal",
+         "Kemsara Hasaka Pathirana",
+         null,
+         "Milan Ranaweera"
+      ],
+      "stargazers": [],
+      "content": [
+         "README.md",
+         "app",
+         "assets",
+         "components",
+         "devices.json",
+         "types"
+      ]
+   },
    "TravelSenseRC/Zybertron_TravelSense": {
       "stars": 0,
-      "views": 31,
+      "views": 32,
       "clones": 6,
       "collaborators": [
          "Disandu Sanhida Jayawardhane",
