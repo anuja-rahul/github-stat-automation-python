@@ -2,7 +2,7 @@
    "anuja-rahul/anuja-rahul": {
       "stars": 2,
       "views": 4,
-      "clones": 11,
+      "clones": 9,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -20,8 +20,8 @@
    },
    "anuja-rahul/apple-website": {
       "stars": 2,
-      "views": 8,
-      "clones": 1,
+      "views": 6,
+      "clones": 0,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -61,6 +61,29 @@
          "README.md",
          "src",
          "w20530884_booking_app.iml"
+      ]
+   },
+   "anuja-rahul/coderally-hackerrank": {
+      "stars": 0,
+      "views": 44,
+      "clones": 17,
+      "collaborators": [
+         "Anuja Rahul Gunasinghe"
+      ],
+      "stargazers": [],
+      "content": [
+         "1.alt.py",
+         "1.biological_hazards.py",
+         "13.cutting_sticks.py",
+         "14.alt.py",
+         "14.ferry_loading.py",
+         "2.alt.py",
+         "2.tower_of_cubes.py",
+         "3.alt.py",
+         "3.hanoi_tower.py",
+         "6.war.py",
+         "README.md",
+         "requirements.txt"
       ]
    },
    "anuja-rahul/css-animations": {
@@ -177,7 +200,7 @@
    "anuja-rahul/github-stat-automation-python": {
       "stars": 2,
       "views": 5,
-      "clones": 25,
+      "clones": 23,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -200,8 +223,8 @@
    },
    "anuja-rahul/glisten-ai-remade": {
       "stars": 4,
-      "views": 3,
-      "clones": 3,
+      "views": 2,
+      "clones": 0,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -271,7 +294,7 @@
    },
    "anuja-rahul/Leetcode-Hackerrank-Codewars": {
       "stars": 0,
-      "views": 160,
+      "views": 169,
       "clones": 38,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
@@ -325,7 +348,7 @@
    "anuja-rahul/maxwell-designs": {
       "stars": 0,
       "views": 0,
-      "clones": 5,
+      "clones": 1,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -350,7 +373,7 @@
    "anuja-rahul/modde": {
       "stars": 0,
       "views": 0,
-      "clones": 2,
+      "clones": 1,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -372,7 +395,7 @@
    },
    "anuja-rahul/MODDE-demo-api": {
       "stars": 0,
-      "views": 8,
+      "views": 7,
       "clones": 2,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
@@ -441,7 +464,7 @@
    "anuja-rahul/open-source-practice": {
       "stars": 0,
       "views": 0,
-      "clones": 7,
+      "clones": 3,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -476,7 +499,7 @@
    "anuja-rahul/password-generator-using-Go": {
       "stars": 1,
       "views": 0,
-      "clones": 0,
+      "clones": 1,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -556,7 +579,7 @@
    "anuja-rahul/portfolio-nextjs": {
       "stars": 0,
       "views": 0,
-      "clones": 6,
+      "clones": 3,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -694,8 +717,8 @@
    },
    "anuja-rahul/python-fastAPI": {
       "stars": 0,
-      "views": 0,
-      "clones": 2,
+      "views": 1,
+      "clones": 1,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -773,7 +796,7 @@
    "anuja-rahul/rust-calculator": {
       "stars": 0,
       "views": 0,
-      "clones": 3,
+      "clones": 0,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -792,7 +815,7 @@
    "anuja-rahul/seat-booking-app": {
       "stars": 2,
       "views": 0,
-      "clones": 1,
+      "clones": 0,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -877,7 +900,7 @@
    },
    "anuja-rahul/spotify-automation-v2": {
       "stars": 2,
-      "views": 0,
+      "views": 1,
       "clones": 0,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
@@ -916,8 +939,8 @@
    },
    "anuja-rahul/travelsense-backend": {
       "stars": 0,
-      "views": 170,
-      "clones": 33,
+      "views": 136,
+      "clones": 16,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -938,7 +961,7 @@
    "anuja-rahul/Weather-CLI-App": {
       "stars": 2,
       "views": 13,
-      "clones": 34,
+      "clones": 32,
       "collaborators": [
          "Anuja Rahul Gunasinghe"
       ],
@@ -1238,7 +1261,7 @@
    },
    "TravelSenseRC/Front-end-Resources": {
       "stars": 0,
-      "views": 33,
+      "views": 15,
       "clones": 1,
       "collaborators": [
          "Disandu Sanhida Jayawardhane",
@@ -1274,8 +1297,8 @@
    },
    "TravelSenseRC/travelsense-backend": {
       "stars": 0,
-      "views": 507,
-      "clones": 37,
+      "views": 436,
+      "clones": 28,
       "collaborators": [
          "Disandu Sanhida Jayawardhane",
          "Anuja Rahul Gunasinghe",
@@ -1301,7 +1324,7 @@
    },
    "TravelSenseRC/TravelSense-FrontEnd-Kemsara": {
       "stars": 0,
-      "views": 120,
+      "views": 122,
       "clones": 11,
       "collaborators": [
          "Disandu Sanhida Jayawardhane",
@@ -1367,8 +1390,8 @@
    },
    "TravelSenseRC/TravelSenseKesh": {
       "stars": 0,
-      "views": 132,
-      "clones": 20,
+      "views": 130,
+      "clones": 14,
       "collaborators": [
          "Disandu Sanhida Jayawardhane",
          "Anuja Rahul Gunasinghe",
@@ -1431,7 +1454,7 @@
    },
    "TravelSenseRC/Zybertron_TravelSense": {
       "stars": 0,
-      "views": 32,
+      "views": 86,
       "clones": 6,
       "collaborators": [
          "Disandu Sanhida Jayawardhane",
